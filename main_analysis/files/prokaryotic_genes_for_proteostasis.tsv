@@ -1,0 +1,283 @@
+	gene_symbol	definition
+3	afaB	Chaperone protein AfaB
+4	aggD	Chaperone protein AggD
+8	arc	Proteasome-associated ATPase (AAA ATPase forming ring-shaped complexes) (ARC) (Proteasomal ATPase)
+9	arfA	Alternative ribosome-rescue factor A
+14	asp1	Accessory Sec system protein Asp1 (Accessory secretory protein Asp1)
+15	asp2	Accessory Sec system protein Asp2 (Accessory secretory protein Asp2) (Orf2)
+16	asp3	Accessory Sec system protein Asp3 (Accessory secretory protein Asp3) (Orf3)
+17	asp4	Accessory secretory protein Asp4 (Orf5)
+18	asp5	Accessory secretory protein Asp5 (Orf6)
+35	bpa	Bacterial proteasome activator
+36	caf1M	Chaperone protein caf1M (Capsule protein fraction 1)
+40	cbpM	Chaperone modulatory protein CbpM
+43	ccmE	Cytochrome c-type biogenesis protein CcmE (Cytochrome c maturation protein E) (Heme chaperone CcmE)
+44	cct1	Thermosome subunit 1 (Heat shock protein CCT1)
+45	cct2	Thermosome subunit 2 (Heat shock protein CCT2)
+46	cct3	Thermosome subunit 3 (Heat shock protein CCT3)
+48	clpA	ATP-dependent Clp protease ATP-binding subunit ClpA
+49	clpB	Chaperone protein ClpB
+50	clpB1	Chaperone protein ClpB 1
+51	clpB2	Chaperone protein ClpB 2
+52	clpC	ATP-dependent Clp protease ATP-binding subunit ClpC
+53	clpC1	ATP-dependent Clp protease ATP-binding subunit ClpC1
+54	clpE	ATP-dependent Clp protease ATP-binding subunit ClpE (Exported protein 4)
+55	clpL	ATP-dependent Clp protease ATP-binding subunit ClpL
+56	clpP	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92) (Endopeptidase Clp)
+57	clpP1	ATP-dependent Clp protease proteolytic subunit 1 (EC 3.4.21.92) (Endopeptidase Clp 1)
+58	clpP2	ATP-dependent Clp protease proteolytic subunit 2 (EC 3.4.21.92) (Endopeptidase Clp 2)
+59	clpQ	ATP-dependent protease subunit ClpQ (EC 3.4.21.-)
+60	clpS	ATP-dependent Clp protease adapter protein ClpS
+61	clpS1	ATP-dependent Clp protease adapter protein ClpS 1
+62	clpS2	ATP-dependent Clp protease adapter protein ClpS 2
+63	clpV1	Protein ClpV1
+64	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX
+65	clpX1	ATP-dependent Clp protease ATP-binding subunit ClpX 1
+66	clpX2	ATP-dependent Clp protease ATP-binding subunit ClpX 2
+67	clpX3	ATP-dependent Clp protease ATP-binding subunit ClpX 3
+68	clpY	ATP-dependent protease ATPase subunit ClpY
+70	cnoX	Chaperedoxin (Heat shock protein CnoX) (Trxsc)
+79	csaA	Probable chaperone CsaA
+80	cspA	Major cold shock protein (Fragment)
+81	cspC	Cold shock-like protein CspC
+82	cspD	Cold shock-like protein CspD
+83	cssC	Chaperone protein CssC
+91	cyp18	Peptidyl-prolyl cis-trans isomerase cyp18 (PPIase cyp18) (SanCyp18) (EC 5.2.1.8) (Rotamase cyp18)
+92	cypB	Peptidyl-prolyl cis-trans isomerase B (PPIase B) (EC 5.2.1.8) (Cyclophilin ScCypB) (Rotamase B) (S-cyclophilin)
+98	degP	Periplasmic serine endoprotease DegP (EC 3.4.21.107) (Heat shock protein DegP) (Protease Do)
+99	degP1	Probable periplasmic serine endoprotease DegP-like (EC 3.4.21.107) (Protease Do)
+101	degS	Serine endoprotease DegS (EC 3.4.21.107) (Site-1 protease DegS) (S1P protease DegS) (Site-1-type intramembrane protease)
+103	djlA	Co-chaperone protein DjlA
+105	dnaJ	Chaperone protein DnaJ
+106	dnaJ1	Chaperone protein DnaJ 1
+107	dnaJ2	Chaperone protein DnaJ 2
+108	dnaK	Chaperone protein DnaK (HSP70) (Heat shock 70 kDa protein) (Heat shock protein 70)
+109	dnaK1	Chaperone protein dnaK1 (HSP70-1) (Heat shock 70 kDa protein 1) (Heat shock protein 70-1)
+110	dnaK2	Chaperone protein dnaK2 (HSP70-2) (Heat shock 70 kDa protein 2) (Heat shock protein 70-2)
+111	dnaK3	Chaperone protein DnaK 3 (HSP70 3) (Heat shock 70 kDa protein 3) (Heat shock protein 70 3)
+114	dsbA	Thiol:disulfide interchange protein DsbA
+115	dsbC	Thiol:disulfide interchange protein DsbC
+116	dsbD	Thiol:disulfide interchange protein DsbD (EC 1.8.1.8) (Protein-disulfide reductase) (Disulfide reductase)
+117	dsbD1	Thiol:disulfide interchange protein DsbD 1 (EC 1.8.1.8) (Protein-disulfide reductase 1) (Disulfide reductase 1)
+118	dsbD2	Thiol:disulfide interchange protein DsbD 2 (EC 1.8.1.8) (Protein-disulfide reductase 2) (Disulfide reductase 2)
+119	dsbE	Thiol:disulfide interchange protein DsbE (Cytochrome c biogenesis protein CcmG)
+120	dsbG	Thiol:disulfide interchange protein DsbG
+121	dsbI	Putative protein-disulfide oxidoreductase DsbI
+122	dsbL	Thiol:disulfide interchange protein DsbL
+128	espP	Serine protease EspP (EC 3.4.21.-) [Cleaved into: Secreted autotransporter protein EspP (Extracellular serine protease plasmid-encoded EspP); Autotransporter protein EspP translocator]
+132	faeE	Chaperone protein FaeE
+133	fanE	Chaperone protein FanE
+140	fkpA	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA (PPIase) (EC 5.2.1.8) (Rotamase)
+143	focC	Chaperone protein FocC
+144	frr	Ribosome-recycling factor (RRF) (Ribosome-releasing factor)
+145	ftsH	ATP-dependent zinc metalloprotease FtsH (EC 3.4.24.-)
+146	ftsH1	ATP-dependent zinc metalloprotease FtsH 1 (EC 3.4.24.-)
+147	ftsH2	ATP-dependent zinc metalloprotease FtsH 2 (EC 3.4.24.-)
+148	ftsH3	ATP-dependent zinc metalloprotease FtsH 3 (EC 3.4.24.-)
+149	ftsH4	ATP-dependent zinc metalloprotease FtsH 4 (EC 3.4.24.-)
+152	ftsY	Signal recognition particle receptor FtsY (SRP receptor)
+161	groEL1	60 kDa chaperonin 1 (GroEL protein 1) (Protein Cpn60-1)
+162	groEL2	60 kDa chaperonin 2 (65 kDa antigen) (Antigen A) (Cell wall protein A) (GroEL protein 2) (Heat shock protein 65) (Protein Cpn60-2)
+163	groL	60 kDa chaperonin (GroEL protein) (Protein Cpn60)
+164	groL1	60 kDa chaperonin (GroEL protein) (Protein Cpn60)
+165	groL2	60 kDa chaperonin 2 (GroEL protein 2) (Protein Cpn60 2)
+166	groL3	60 kDa chaperonin 2 (GroEL protein 2) (Protein Cpn60 2)
+167	groL4	60 kDa chaperonin 4 (GroEL protein 4) (Protein Cpn60 4)
+168	groL5	60 kDa chaperonin 5 (GroEL protein 5) (Protein Cpn60 5)
+169	groL6	60 kDa chaperonin 6 (GroEL protein 6) (Protein Cpn60 6)
+170	groL7	60 kDa chaperonin 7 (GroEL protein 7) (Protein Cpn60 7)
+171	groS	10 kDa chaperonin (GroES protein) (Protein Cpn10)
+172	groS1	10 kDa chaperonin 1 (GroES protein 1) (Protein Cpn10 1)
+173	groS2	10 kDa chaperonin 2 (GroES protein 2) (Protein Cpn10 2)
+174	groS3	10 kDa chaperonin 3 (GroES protein 3) (Protein Cpn10 3)
+175	groS4	10 kDa chaperonin 4 (GroES protein 4) (Protein Cpn10 4)
+176	groS5	10 kDa chaperonin 5 (GroES protein 5) (Protein Cpn10 5)
+177	grpE	Protein GrpE (HSP-70 cofactor)
+178	grpE1	Protein GrpE 1 (HSP-70 cofactor 1)
+179	grpE2	Protein GrpE 2 (HSP-70 cofactor 2)
+180	gspB	Putative general secretion pathway protein B
+181	gtf1	Glycosyltransferase Gtf1 (EC 2.4.1.-) (Glycosyltransferase GtfA)
+182	gtf2	Glycosyltransferase-stabilizing protein Gtf2 (Glycosyltransferase chaperone Gtf2)
+184	hdeA	Acid stress chaperone HdeA (10K-S protein)
+188	hhoA	Putative serine protease HhoA
+189	hhoB	Putative serine protease HhoB
+192	hifB	Chaperone protein HifB
+199	hisS	Histidine--tRNA ligase (EC 6.1.1.21) (Histidyl-tRNA synthetase) (HisRS)
+200	hpf	Ribosome hibernation promoting factor (HPF) (Hibernation factor HPF) (Fragment)
+201	hrcA	Heat-inducible transcription repressor HrcA
+202	hscA	Chaperone protein HscA homolog
+203	hscB	Co-chaperone protein HscB homolog
+204	hscC	Chaperone protein HscC (Hsc62)
+205	hslO	33 kDa chaperonin (Heat shock protein 33 homolog) (HSP33)
+206	hslR	Heat shock protein 15 (HSP15)
+211	hspR	Putative heat shock protein HspR
+213	htpG	Chaperone protein HtpG (Heat shock protein HtpG) (High temperature protein G)
+214	htpG1	Chaperone protein HtpG (Heat shock protein HtpG) (High temperature protein G)
+215	htpG2	Chaperone protein HtpG (Heat shock protein HtpG) (High temperature protein G)
+216	htpX	Protease HtpX (EC 3.4.24.-) (Heat shock protein HtpX)
+217	htrA	Serine protease Do-like HtrA (EC 3.4.21.107)
+218	htrB	Serine protease Do-like HtrB (EC 3.4.21.107) (HtrA-like serine protease)
+221	ibpA	Small heat shock protein IbpA (16 kDa heat shock protein A)
+222	ibpB	Small heat shock protein IbpB (16 kDa heat shock protein B)
+227	ipaH9.8	E3 ubiquitin-protein ligase ipaH9.8 (EC 2.3.2.27) (Invasion plasmid antigen ipaH9.8) (RING-type E3 ubiquitin transferase ipaH9.8)
+228	ipgA	Chaperone protein IpgA
+229	ipgC	Chaperone protein IpgC
+230	ipgE	Chaperone protein IpgE
+243	lepA	Elongation factor 4 (EF-4) (EC 3.6.5.n1) (Ribosomal back-translocase LepA)
+245	lon	Lon protease (EC 3.4.21.53) (ATP-dependent protease La)
+246	lon1	Lon protease 1 (EC 3.4.21.53) (ATP-dependent protease La 1)
+247	lon2	Lon protease 2 (EC 3.4.21.53) (ATP-dependent protease La 2)
+248	lon3	Lon protease 3 (EC 3.4.21.53) (ATP-dependent protease La 3)
+249	lon4	Lon protease 4 (EC 3.4.21.53) (ATP-dependent protease La 4)
+250	lpfB	Chaperone protein LpfB
+266	mimG	Chaperonin-like protein MimG
+268	mpa	Proteasome-associated ATPase (AAA ATPase forming ring-shaped complexes) (ARC) (Mycobacterial proteasome ATPase)
+271	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13) (UDP-MurNAc-pentapeptide phosphotransferase)
+272	mrkB	Chaperone protein MrkB
+273	msrP	Protein-methionine-sulfoxide reductase catalytic subunit MsrP (EC 1.8.5.-)
+274	msrQ	Protein-methionine-sulfoxide reductase heme-binding subunit MsrQ (Flavocytochrome MsrQ)
+276	mucD	Probable periplasmic serine endoprotease DegP-like (EC 3.4.21.107) (Protease Do)
+279	myfB	Chaperone protein MyfB
+282	napD	Chaperone NapD (NapA signal peptide-binding chaperone NapD)
+283	nfaE	Chaperone protein NfaE
+285	nifM	Putative peptidyl-prolyl cis-trans isomerase NifM (PPIase NifM) (EC 5.2.1.8) (Rotamase NifM)
+297	pafA	Pup--protein ligase (EC 6.3.1.19) (Proteasome accessory factor A) (Pup-conjugating enzyme)
+298	pafA1	Pup--protein ligase 1 (EC 6.3.1.19) (Proteasome accessory factor A 1) (Pup-conjugating enzyme 1)
+299	pafA2	Pup--protein ligase 2 (EC 6.3.1.19) (Proteasome accessory factor A 2) (Pup-conjugating enzyme 2)
+300	pafB	Protein PafB (Proteasome accessory factor B)
+301	pafC	Protein PafC (Proteasome accessory factor C)
+302	pan	Proteasome-activating nucleotidase (PAN) (Proteasomal ATPase) (Proteasome regulatory ATPase) (Proteasome regulatory particle)
+303	pan1	Proteasome-activating nucleotidase 1 (PAN 1) (Proteasomal ATPase 1) (Proteasome regulatory ATPase 1) (Proteasome regulatory particle 1)
+304	pan2	Proteasome-activating nucleotidase 2 (PAN 2) (Proteasomal ATPase 2) (Proteasome regulatory ATPase 2) (Proteasome regulatory particle 2)
+305	papD	Chaperone protein PapD
+308	pepB	Peptidase B (EC 3.4.11.23) (Aminopeptidase B)
+310	pfdA	Prefoldin subunit alpha (GimC subunit alpha)
+311	pfdA1	Prefoldin subunit alpha 1 (GimC subunit alpha 1)
+312	pfdA2	Prefoldin subunit alpha 2 (GimC subunit alpha 2)
+313	pfdB	Prefoldin subunit beta (GimC subunit beta)
+316	plp	Parvulin-like PPIase (EC 5.2.1.8) (Peptidyl-prolyl cis-trans isomerase plp) (Rotamase plp)
+317	pmfD	Chaperone protein PmfD
+320	ppiA	Peptidyl-prolyl cis-trans isomerase A (PPIase A) (EC 5.2.1.8) (Rotamase A)
+321	ppiB	Peptidyl-prolyl cis-trans isomerase B (PPIase B) (EC 5.2.1.8) (Rotamase B)
+322	ppiD	Peptidyl-prolyl cis-trans isomerase D (PPIase D) (EC 5.2.1.8) (Rotamase D)
+324	prcA	Calcium-dependent protease (EC 3.4.21.-) (Trypsin)
+325	prcA1	Proteasome subunit alpha 1 (EC 3.4.25.1) (20S proteasome alpha subunit 1) (Proteasome core protein PrcA 1)
+326	prcA2	Proteasome subunit alpha 2 (EC 3.4.25.1) (20S proteasome alpha subunit 2) (Proteasome core protein PrcA 2)
+327	prcB	Proteasome subunit beta (EC 3.4.25.1) (20S proteasome beta subunit) (Proteasome core protein PrcB)
+328	prcB1	Proteasome subunit beta 1 (EC 3.4.25.1) (20S proteasome beta subunit 1) (Proteasome core protein PrcB 1)
+329	prcB2	Proteasome subunit beta 2 (EC 3.4.25.1) (20S proteasome beta subunit 2) (Proteasome core protein PrcB 2)
+332	prmA	Ribosomal protein L11 methyltransferase (L11 Mtase) (EC 2.1.1.-)
+333	prmG	Probable chaperonin-like protein PrmG
+334	prsA	Foldase protein PrsA (EC 5.2.1.8)
+335	prsA1	Foldase protein PrsA 1 (EC 5.2.1.8)
+336	prsA2	Foldase protein PrsA 2 (EC 5.2.1.8)
+337	prsA3	Foldase protein PrsA 3 (EC 5.2.1.8)
+338	prsA4	Foldase protein PrsA 4 (EC 5.2.1.8)
+340	prsW	Protease PrsW (EC 3.4.-.-) (Protease responsible for activating sigma-W) (Site-1 protease PrsW) (S1P protease PrsW)
+342	psmA	Proteasome subunit alpha (EC 3.4.25.1) (20S proteasome alpha subunit) (Proteasome core protein PsmA)
+345	psmB	Proteasome subunit beta (EC 3.4.25.1) (20S proteasome beta subunit) (Proteasome core protein PsmB)
+346	psmB1	Proteasome subunit beta 1 (EC 3.4.25.1) (20S proteasome beta subunit 1) (Proteasome core protein PsmB 1)
+347	psmB2	Proteasome subunit beta 2 (EC 3.4.25.1) (20S proteasome beta subunit 2) (Proteasome core protein PsmB 2)
+348	pup	Prokaryotic ubiquitin-like protein Pup (Bacterial ubiquitin-like modifier)
+349	pup1	Prokaryotic ubiquitin-like protein Pup 1 (Bacterial ubiquitin-like modifier 1)
+350	pup2	Prokaryotic ubiquitin-like protein Pup 2 (Bacterial ubiquitin-like modifier 2)
+359	rimM	Ribosome maturation factor RimM
+360	rimM1	Ribosome maturation factor RimM
+361	rimM2	Ribosome maturation factor RimM
+362	rimO	Ribosomal protein S12 methylthiotransferase RimO (S12 MTTase) (S12 methylthiotransferase) (EC 2.8.4.4) (Ribosomal protein S12 (aspartate-C(3))-methylthiotransferase) (Ribosome maturation factor RimO)
+363	rimP	Ribosome maturation factor RimP
+364	rlmE	Ribosomal RNA large subunit methyltransferase E (EC 2.1.1.166) (23S rRNA Um2552 methyltransferase) (rRNA (uridine-2'-O-)-methyltransferase)
+365	rlmH	Ribosomal RNA large subunit methyltransferase H (EC 2.1.1.177) (23S rRNA (pseudouridine1915-N3)-methyltransferase) (23S rRNA m3Psi1915 methyltransferase) (rRNA (pseudouridine-N3-)-methyltransferase RlmH)
+366	rluD	Ribosomal large subunit pseudouridine synthase D (EC 5.4.99.23) (23S rRNA pseudouridine(1911/1915/1917) synthase) (rRNA pseudouridylate synthase D) (rRNA-uridine isomerase D)
+373	rotA	Peptidyl-prolyl cis-trans isomerase A (PPIase A) (EC 5.2.1.8) (Cyclophilin A) (Rotamase A)
+374	rplB	50S ribosomal protein L2
+375	rplC	50S ribosomal protein L3
+376	rplD	50S ribosomal protein L4
+377	rplF	50S ribosomal protein L6
+378	rplI	50S ribosomal protein L9
+379	rplK	50S ribosomal protein L11
+380	rplL	50S ribosomal protein L7/L12
+381	rplM	50S ribosomal protein L13
+382	rplN	50S ribosomal protein L14
+383	rplO	50S ribosomal protein L15
+384	rplP	50S ribosomal protein L16
+385	rplQ	50S ribosomal protein L17
+386	rplR	50S ribosomal protein L18
+387	rplT	50S ribosomal protein L20
+388	rplU	50S ribosomal protein L21
+389	rplV	50S ribosomal protein L22
+390	rplW	50S ribosomal protein L23
+391	rplX	50S ribosomal protein L24
+392	rplY	50S ribosomal protein L25 (General stress protein CTC)
+393	rpmA	50S ribosomal protein L27
+394	rpmC	50S ribosomal protein L29
+395	rpmD	50S ribosomal protein L30
+396	rpmF	50S ribosomal protein L32
+397	rpmG	50S ribosomal protein L33
+398	rpmH	50S ribosomal protein L34
+404	rpsA	30S ribosomal protein S1
+405	rpsE	30S ribosomal protein S5
+406	rpsF	30S ribosomal protein S6
+407	rpsG	30S ribosomal protein S7
+408	rpsI	30S ribosomal protein S9
+409	rpsM	30S ribosomal protein S13
+410	rpsO	30S ribosomal protein S15
+411	rpsQ	30S ribosomal protein S17
+412	rpsR	30S ribosomal protein S18
+413	rpsS	30S ribosomal protein S19
+414	rpsU	30S ribosomal protein S21
+417	rsmA	Ribosomal RNA small subunit methyltransferase A (EC 2.1.1.182) (16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase) (16S rRNA dimethyladenosine transferase) (16S rRNA dimethylase) (S-adenosylmethionine-6-N', N'-adenosyl(rRNA) dimethyltransferase)
+418	rsmD	Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.171) (16S rRNA m2G966 methyltransferase) (rRNA (guanine-N(2)-)-methyltransferase)
+419	rsmE	Ribosomal RNA small subunit methyltransferase E (EC 2.1.1.193) (16S rRNA m3U1498 methyltransferase)
+420	rsmH	Ribosomal RNA small subunit methyltransferase H (EC 2.1.1.199) (16S rRNA m(4)C1402 methyltransferase) (rRNA (cytosine-N(4)-)-methyltransferase RsmH)
+421	rsmI	Ribosomal RNA small subunit methyltransferase I (EC 2.1.1.198) (16S rRNA 2'-O-ribose C1402 methyltransferase) (rRNA (cytidine-2'-O-)-methyltransferase RsmI)
+424	samp1	Small archaeal modifier protein 1 (SAMP1) (Ubiquitin-like small archaeal modifier protein 1)
+425	samp2	Small archaeal modifier protein 2 (SAMP2) (Ubiquitin-like small archaeal modifier protein 2)
+426	samp3	Small archaeal modifier protein 3 (SAMP3) (Ubiquitin-like small archaeal modifier protein 3)
+428	sasA	Adaptive-response sensory-kinase SasA (EC 2.7.-.-) (Synechococcus adaptive sensor protein A)
+431	secA	Protein translocase subunit SecA
+432	secA1	Protein translocase subunit SecA 1
+433	secA2	Protein translocase subunit SecA 2
+434	secA3	Protein translocase subunit SecA 3
+435	secB	Protein-export protein SecB
+436	secB1	Protein-export protein SecB 1
+437	secB2	Protein-export protein SecB 2
+438	secBL	SecB-like chaperone Rv1957
+439	secD	Protein-export membrane protein SecD
+440	secDF	Protein translocase subunit SecDF
+441	secE	Protein translocase subunit SecE (Protein transport protein Sec61 gamma subunit homolog)
+442	secF	Protein translocase subunit SecF
+443	secG	Protein-export membrane protein SecG
+444	secM	Secretion monitor
+445	secY	Protein translocase subunit SecY
+446	secY2	Accessory Sec system protein translocase subunit SecY2
+447	sefB	Chaperone protein SefB
+452	sicA	Chaperone protein SicA (Salmonella invasin chaperone)
+453	sicP	Chaperone protein sicP
+467	slyD	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (PPIase) (EC 5.2.1.8) (Metallochaperone SlyD)
+470	sohB	Probable protease SohB (EC 3.4.21.-) (Fragment)
+471	sopA	E3 ubiquitin-protein ligase SopA (EC 2.3.2.26) (HECT-type E3 ubiquitin transferase SopA) (Salmonella outer protein A) (Secreted effector protein SopA)
+472	spoIIGA	Sporulation sigma-E factor-processing peptidase (EC 3.4.23.-) (Membrane-associated aspartic protease) (Stage II sporulation protein GA)
+474	spy	Periplasmic chaperone Spy (Spheroplast protein Y)
+476	srkA	Stress response kinase A (EC 2.7.11.1) (Serine/threonine-protein kinase SrkA)
+482	surA	Chaperone SurA (Peptidyl-prolyl cis-trans isomerase SurA) (PPIase SurA) (EC 5.2.1.8) (Rotamase SurA)
+484	sycN	Chaperone protein SycN
+485	sycT	Chaperone protein SycT
+492	ths	Thermosome subunit (Chaperonin subunit)
+493	thsA	Thermosome subunit alpha (Chaperonin subunit alpha) (Thermosome subunit 1)
+494	thsB	Thermosome subunit beta (Chaperonin subunit beta) (Thermosome subunit 2)
+495	thsC	Thermosome subunit gamma (Chaperonin subunit gamma) (Thermosome subunit 3)
+503	torD	Chaperone protein TorD
+507	ubact	Prokaryotic ubiquitin-like protein UBact
+510	viaA	Protein ViaA (VWA domain protein interacting with AAA ATPase)
+512	whiB3	Redox- and pH-responsive transcriptional regulator WhiB3
+514	yacD	Putative peptidyl-prolyl cis-trans isomerase YacD (PPIase YacD) (EC 5.2.1.8) (Rotamase YacD)
+520	ycbZ	Putative Lon protease homolog (EC 3.4.21.-) (ATP-dependent protease La homolog)
+522	ycdY	Chaperone protein YcdY
+523	yciK	Uncharacterized oxidoreductase YciK (EC 1.-.-.-)
+525	yegD	Uncharacterized chaperone protein YegD
+536	yrvN	Uncharacterized AAA domain-containing protein YrvN
+537	yscB	Chaperone protein YscB (Yop proteins translocation protein B)
+538	yscY	Chaperone protein YscY (Yop proteins translocation protein Y)
+540	yvyD	Ribosome hibernation promotion factor (HPF) (Hst23) (Putative sigma-54 modulation protein) (SigL modulation protein)
+542	zmp1	Pro-Pro endopeptidase (PPEP-1) (EC 3.4.24.89) (Zinc metalloprotease Zmp1)

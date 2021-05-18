@@ -1,0 +1,5 @@
+	class	mart	host	port	dataset_extension	reference
+0	ensembl	ensembl	https://www.ensembl.org/	443	_gene_ensembl	hsapiens;drerio
+1	plants	plants_mart	plants.ensembl.org	80	_eg_gene	athaliana
+2	fungi	fungi_mart	fungi.ensembl.org	80	_eg_gene	scerevisiae
+3	metazoa	metazoa_mart	metazoa.ensembl.org	80	_eg_gene	celegans;dmelanogaster

@@ -1,0 +1,438 @@
+	species_name	species_abbreviation	abbreviation	taxonomy	ensembl_mart	rRNA
+0	Dromaius novaehollandiae	dnovaehollandiae	ensembl_0	eukaryotes	ensembl	AF173610
+1	Ailuropoda melanoleuca	amelanoleuca	ensembl_1	eukaryotes	ensembl	GL196163
+2	Vombatus ursinus	vursinus	ensembl_2	eukaryotes	ensembl	AJ311678
+3	Gorilla gorilla	ggorilla	ensembl_3	eukaryotes	ensembl	KX061876
+4	Pan troglodytes	ptroglodytes	ensembl_4	eukaryotes	ensembl	KX061886
+5	Ciona intestinalis	cintestinalis	ensembl_5	eukaryotes	ensembl	AB013017
+6	Ovis aries	oaries	ensembl_6	eukaryotes	ensembl	KY129860
+7	Melopsittacus undulatus	mundulatus	ensembl_7	eukaryotes	ensembl	AF173629
+8	Erpetoichthys calabaricus	ecalabaricus	ensembl_8	eukaryotes	ensembl	AF198115
+9	Homo sapiens	hsapiens	ensembl_9	eukaryotes	ensembl	M10098
+10	Oryzias latipes	olatipes	ensembl_10	eukaryotes	ensembl	AB105163
+11	Oryctolagus cuniculus	ocuniculus	ensembl_11	eukaryotes	ensembl	X06778
+12	Anolis carolinensis	acarolinensis	ensembl_12	eukaryotes	ensembl	AY859624
+13	Sus scrofa	sscrofa	ensembl_13	eukaryotes	ensembl	NW_018085108
+14	Microtus ochrogaster	mochrogaster	ensembl_14	eukaryotes	ensembl	KP780173
+15	Xiphophorus maculatus	xmaculatus	ensembl_15	eukaryotes	ensembl	KJ774770
+16	Latimeria chalumnae	lchalumnae	ensembl_16	eukaryotes	ensembl	L11288
+17	Lates calcarifer	lcalcarifer	ensembl_17	eukaryotes	ensembl	KJ774690
+18	Sphenodon punctatus	spunctatus	ensembl_18	eukaryotes	ensembl	AF115860
+19	Pelodiscus sinensis	psinensis	ensembl_19	eukaryotes	ensembl	MK685677
+20	Fundulus heteroclitus	fheteroclitus	ensembl_20	eukaryotes	ensembl	M91180
+21	Gallus gallus	ggallus	ensembl_21	eukaryotes	ensembl	MG967540
+22	Equus caballus	ecaballus	ensembl_22	eukaryotes	ensembl	AJ311673
+23	Callithrix jacchus	cjacchus	ensembl_23	eukaryotes	ensembl	KX061891
+24	Meleagris gallopavo	mgallopavo	ensembl_24	eukaryotes	ensembl	AJ419877
+25	Gadus morhua	gmorhua	ensembl_25	eukaryotes	ensembl	JN132136
+26	Nomascus leucogenys	nleucogenys	ensembl_26	eukaryotes	ensembl	KX061879
+27	Crocodylus porosus	cporosus	ensembl_27	eukaryotes	ensembl	EU727191
+28	Rattus norvegicus	rnorvegicus	ensembl_28	eukaryotes	ensembl	M11188
+29	Scophthalmus maximus	smaximus	ensembl_29	eukaryotes	ensembl	EF126038
+30	Clupea harengus	charengus	ensembl_30	eukaryotes	ensembl	X98845
+31	Poecilia reticulata	preticulata	ensembl_31	eukaryotes	ensembl	KJ774732
+32	Felis catus	fcatus	ensembl_32	eukaryotes	ensembl	NC_018736
+33	Labrus bergylta	lbergylta	ensembl_33	eukaryotes	ensembl	KU320065
+34	Macaca mulatta	mmulatta	ensembl_34	eukaryotes	ensembl	KX061881
+35	Dasypus novemcinctus	dnovemcinctus	ensembl_35	eukaryotes	ensembl	AJ311674
+36	Erinaceus europaeus	eeuropaeus	ensembl_36	eukaryotes	ensembl	AJ311675
+37	Bos taurus	btaurus	ensembl_37	eukaryotes	ensembl	DQ222453
+38	Callorhinchus milii	cmilii	ensembl_38	eukaryotes	ensembl	AY049813
+39	Danio rerio	drerio	ensembl_39	eukaryotes	ensembl	NR_145818
+40	Anas platyrhynchos	applatyrhynchos	ensembl_40	eukaryotes	ensembl	AF173614
+41	Pongo abelii	pabelii	ensembl_41	eukaryotes	ensembl	KX061877
+42	Ornithorhynchus anatinus	oanatinus	ensembl_42	eukaryotes	ensembl	AJ311679
+43	Xenopus tropicalis	xtropicalis	ensembl_43	eukaryotes	ensembl	X02995
+44	Cyprinodon variegatus	cvariegatus	ensembl_44	eukaryotes	ensembl	EF431912
+69	Schizosaccharomyces octosporus	soctosporus	fungi_0	eukaryotes	fungi	KE503208
+70	Cryptococcus neoformans	cneoformans	fungi_1	eukaryotes	fungi	AJ560315
+71	Schizosaccharomyces japonicus	sjaponicus	fungi_2	eukaryotes	fungi	AB243296
+72	Komagataella pastoris	kpastoris	fungi_6	eukaryotes	fungi	CP014589
+73	Saccharomyces cerevisiae	scerevisiae	fungi_9	eukaryotes	fungi	Z75578
+74	Schizosaccharomyces pombe	spombe	fungi_11	eukaryotes	fungi	AY046272
+75	Sporisorium reilianum	sreilianum	fungi_15	eukaryotes	fungi	KF706441
+76	Puccinia graminis	pgraminis	fungi_16	eukaryotes	fungi	AY125409
+77	Solenopsis invicta	sinvicta	metazoa_0	eukaryotes	metazoa	AY334566
+78	Caenorhabditis elegans	celegans	metazoa_1	eukaryotes	metazoa	BX284601
+79	Schistosoma mansoni	smansoni	metazoa_2	eukaryotes	metazoa	U65657
+80	Rhodnius prolixus	rprolixus	metazoa_3	eukaryotes	metazoa	AJ421962
+81	Bombyx mori	bmori	metazoa_4	eukaryotes	metazoa	DQ347470
+82	Loa loa	lloa	metazoa_5	eukaryotes	metazoa	JH712980
+83	Trichinella spiralis	tspiralis	metazoa_6	eukaryotes	metazoa	KU725983
+84	Crassostrea gigas	cgigas	metazoa_7	eukaryotes	metazoa	AB064942
+85	Caenorhabditis briggsae	cbriggsae	metazoa_8	eukaryotes	metazoa	JN636061
+86	Strongyloides ratti	sratti	metazoa_10	eukaryotes	metazoa	U81581
+87	Lepeophtheirus salmonis	lsalmonis	metazoa_11	eukaryotes	metazoa	AF208263
+88	Drosophila melanogaster	dmelanogaster	metazoa_12	eukaryotes	metazoa	M21017
+89	Tribolium castaneum	tcastaneum	metazoa_13	eukaryotes	metazoa	KP419322
+90	Drosophila simulans	dsimulans	metazoa_14	eukaryotes	metazoa	AY037174
+91	Anopheles darlingi	adarlingi	metazoa_15	eukaryotes	metazoa	ADMH02002220
+92	Anopheles gambiae	agambiae	metazoa_16	eukaryotes	metazoa	AM157179
+93	Pediculus humanus subsp. corporis	phumanus	metazoa_17	eukaryotes	metazoa	AY077775
+45	Brassica oleracea	boleracea	plants_0	eukaryotes	plants	JF920286
+46	Oryza glumipatula	oglumipatula	plants_1	eukaryotes	plants	KM036292
+47	Oryza barthii	obarthii	plants_2	eukaryotes	plants	KM117253
+48	Glycine max	gmax	plants_3	eukaryotes	plants	X02623
+49	Zea mays	zmays	plants_4	eukaryotes	plants	M10248
+50	Chlamydomonas reinhardtii	creinhardtii	plants_5	eukaryotes	plants	JX888472
+51	Medicago truncatula	mtruncatula	plants_6	eukaryotes	plants	AF093506
+52	Solanum tuberosum	stuberosum	plants_7	eukaryotes	plants	X67238
+53	Oryza sativa Japonica Group	osativa	plants_8	eukaryotes	plants	BA000029
+54	Galdieria sulphuraria	gsulphuraria	plants_9	eukaryotes	plants	AB091230
+55	Solanum lycopersicum	slycopersicum	plants_10	eukaryotes	plants	MF034192
+56	Capsicum annuum	cannuum	plants_11	eukaryotes	plants	KJ865410
+57	Cucumis sativus	csativus	plants_12	eukaryotes	plants	KX231332
+58	Brassica napus	bnapus	plants_13	eukaryotes	plants	FR715249
+59	Brassica rapa	brapa	plants_14	eukaryotes	plants	KX709345
+60	Oryza glaberrima	oglaberrima	plants_15	eukaryotes	plants	KM036289
+61	Helianthus annuus	hannuus	plants_16	eukaryotes	plants	MG770607
+62	Oryza punctata	opunctata	plants_17	eukaryotes	plants	KM036294
+63	Cyanidioschyzon merolae	cmerolae	plants_18	eukaryotes	plants	AB158485
+64	Vitis vinifera	vvinifera	plants_19	eukaryotes	plants	FM179380
+65	Musa acuminata	macuminata	plants_20	eukaryotes	plants	U42083
+66	Amborella trichopoda	atrichopoda	plants_21	eukaryotes	plants	KI392628
+67	Arabidopsis thaliana	athaliana	plants_22	eukaryotes	plants	CP002685
+68	Nicotiana attenuata	nattenuata	plants_23	eukaryotes	plants	MF579563
+94	Escherichia coli K12		bacteria_0	bacteria		AP009048
+95	Pseudomonas aeruginosa ATCC 15692 		bacteria_1	bacteria		CP017149
+96	Salmonella typhimurium LT2 		bacteria_2	bacteria		AE006468
+97	Mycobacterium tuberculosis ATCC 25618 		bacteria_3	bacteria		AL123456
+98	Bacillus subtilis 168		bacteria_4	bacteria		CP010052
+99	Yersinia pestis		bacteria_5	bacteria		VIDY01000143
+100	Escherichia coli O157:H7		bacteria_6	bacteria		CP035366
+101	Shewanella oneidensis MR-1		bacteria_7	bacteria		MK778510
+102	Shigella flexneri		bacteria_8	bacteria		MN177243
+103	Vibrio cholerae serotype O1 ATCC 39315 		bacteria_9	bacteria		AE003852
+104	Klebsiella pneumoniae subsp pneumoniae ATCC 700721 		bacteria_10	bacteria		CP000647
+105	Atlantibacter hermannii NBRC 105704		bacteria_11	bacteria		AB682276
+106	Shigella dysenteriae serotype 1 Sd197		bacteria_12	bacteria		CP000034
+107	Trabulsiella guamensis ATCC 49490		bacteria_13	bacteria		JMTB01000142
+108	Kluyvera cryocrescens Kluyvera citrophila		bacteria_14	bacteria		CAADJD010000018
+109	Haemophilus influenzae ATCC 51907 		bacteria_15	bacteria		L42023
+110	Bradyrhizobium diazoefficiens JCM 10833 		bacteria_16	bacteria		AB909430
+111	Pseudescherichia vulneris NBRC 102420		bacteria_17	bacteria		BBMZ01000044
+112	Geobacter sulfurreducens ATCC 51573 		bacteria_18	bacteria		AE017180
+113	Pluralibacter gergoviae Enterobacter gergoviae		bacteria_19	bacteria		KP255918
+114	Erwinia gerundensis		bacteria_20	bacteria		LN907827
+115	Enterobacter cloacae S611		bacteria_21	bacteria		AXOM01000004
+116	Pseudomonas syringae pv tomato ATCC BAA-871 		bacteria_22	bacteria		AE016853
+117	Superficieibacter electus		bacteria_23	bacteria		PQGE01000071
+118	Bacillus anthracis		bacteria_24	bacteria		MH463550
+119	Citrobacter koseri ATCC BAA-895 		bacteria_25	bacteria		LK931336
+120	Pseudomonas fluorescens ATCC BAA-477 		bacteria_26	bacteria		CP000076
+121	Vibrio nigripulchritudo		bacteria_27	bacteria		FO203526
+122	Franconibacter pulveris		bacteria_28	bacteria		EF472537
+123	Duganella phyllosphaerae		bacteria_29	bacteria		KY783370
+124	Vibrio proteolyticus NBRC 13287		bacteria_30	bacteria		BATJ01000038
+125	Burkholderia multivorans ATCC 17616 		bacteria_31	bacteria		AP009385
+126	Pseudomonas putida ATCC 47054 		bacteria_32	bacteria		AE015451
+127	Xenorhabdus nematophila ATCC 19061 		bacteria_33	bacteria		FN667742
+128	Streptococcus pneumoniae ATCC BAA-255 		bacteria_34	bacteria		AE007317
+129	Paucimonas lemoignei Pseudomonas lemoignei		bacteria_35	bacteria		X92554
+130	Marinomonas spartinae		bacteria_36	bacteria		FLOE01000028
+131	Photobacterium aquimaris		bacteria_37	bacteria		LS483012
+132	Pandoraea sputorum		bacteria_38	bacteria		CP010431
+133	Klebsiella pneumoniae subsp pneumoniae HS11286		bacteria_39	bacteria		CP003200
+134	Janthinobacterium sp KBS0711		bacteria_40	bacteria		VCCE02000001
+135	Pseudomonas fluorescens F113		bacteria_41	bacteria		CP003150
+136	Tatumella ptyseos ATCC 33301		bacteria_42	bacteria		JMPR01000058
+137	Halomonas elongata ATCC 33173 		bacteria_43	bacteria		AJ295147
+138	Achromobacter piechaudii ATCC 43553		bacteria_44	bacteria		ADMS01000149
+139	Ralstonia solanacearum GMI1000 		bacteria_45	bacteria		AL646052
+140	Paraburkholderia ribeironis		bacteria_46	bacteria		CYGX02000033
+141	Janthinobacterium sp HH01		bacteria_47	bacteria		AMWD01000001
+142	Pseudomonas resinovorans NBRC 106553		bacteria_48	bacteria		AP013068
+143	Labrenzia alba		bacteria_49	bacteria		AJ878875
+144	Bordetella hinzii		bacteria_50	bacteria		AF177667
+145	Neorhizobium sp NCHU2750		bacteria_51	bacteria		CP030827
+146	Listeria monocytogenes serovar 1/2a ATCC BAA-679 		bacteria_52	bacteria		AL591980
+147	Azospirillum lipoferum 4B		bacteria_53	bacteria		FQ311868
+148	Agrobacterium fabrum C58 		bacteria_54	bacteria		AE007869
+149	Bacillus licheniformis ATCC 14580 		bacteria_55	bacteria		CP000002
+150	Bacillus megaterium ATCC 12872 		bacteria_56	bacteria		SUPM01000023
+151	Cupriavidus necator ATCC 17699 		bacteria_57	bacteria		CP039288
+152	Erwinia mallotivora		bacteria_58	bacteria		AJ233414
+153	Clostridium botulinum Hall 		bacteria_59	bacteria		CP000727
+154	Labrenzia alexandrii		bacteria_60	bacteria		CXWD01000047
+155	Chromobacterium violaceum ATCC 12472 		bacteria_61	bacteria		AE016825
+156	Burkholderia sp DHOD12		bacteria_62	bacteria		CP040077
+157	Streptomyces avermitilis ATCC 31267 		bacteria_63	bacteria		LMWT01000083
+158	Maliponia aquimaris		bacteria_64	bacteria		FXYF01000034
+159	Ascidiaceihabitans donghaensis		bacteria_65	bacteria		OMOR01000001
+160	Aquifex aeolicus VF5		bacteria_66	bacteria		AE000657
+161	Phaeobacter sp CECT 7735		bacteria_67	bacteria		CYTW01000009
+162	Streptomyces jeddahensis		bacteria_68	bacteria		LOHS01000151
+163	Roseobacter denitrificans ATCC 33942 		bacteria_69	bacteria		CP000362
+164	Tatumella morbirosei		bacteria_70	bacteria		JPKR02000005
+165	Burkholderia dabaoshanensis		bacteria_71	bacteria		PNYA01000066
+166	Bacillus cereus ATCC 14579 		bacteria_72	bacteria		MN326684
+167	Roseisalinus antarcticus		bacteria_73	bacteria		FWFZ01000091
+168	Luteitalea pratensis		bacteria_74	bacteria		CP015136
+169	Actinoalloteichus hoggarensis		bacteria_75	bacteria		CP022521
+170	Planktotalea frisia		bacteria_76	bacteria		MLCB01000056
+171	Massilia glaciei		bacteria_77	bacteria		KJ755877
+172	Rhodococcus sp AD45		bacteria_78	bacteria		JYOP01000007
+173	Brevibacillus brevis 47 		bacteria_79	bacteria		AP008955
+174	Bacillus halodurans ATCC BAA-125 		bacteria_80	bacteria		BA000004
+175	Sporomusa acidovorans DSM 3132		bacteria_81	bacteria		LSLL01000141
+176	Acidovorax sp RAC01		bacteria_82	bacteria		CP016447
+177	Vibrio nereis		bacteria_83	bacteria		LHPJ01000025
+178	Pseudooceanicola marinus		bacteria_84	bacteria		PGTC01000013
+179	Sporomusa sphaeroides DSM 2875		bacteria_85	bacteria		LSLJ01000007
+180	Thalassobius mediterraneus		bacteria_86	bacteria		AB470945
+181	Rhodococcus coprophilus		bacteria_87	bacteria		AJ306401
+182	Amycolatopsis keratiniphila		bacteria_88	bacteria		AJ278496
+183	Hungatella hathewayi		bacteria_89	bacteria		AY552788
+184	Pseudoxanthomonas composti		bacteria_90	bacteria		SAWZ01000021
+185	Pusillimonas sp ye3		bacteria_91	bacteria		CP022987
+186	Limnohabitans sp 103DPR2		bacteria_92	bacteria		CP011834
+187	Gloeobacter violaceus ATCC 29082 		bacteria_93	bacteria		BA000045
+188	Mycobacterium marinum ATCC BAA-535 		bacteria_94	bacteria		CP000854
+189	Photobacterium aphoticum		bacteria_95	bacteria		LDOV01000035
+190	Gemmata sp SH-PL17		bacteria_96	bacteria		CP011271
+191	Comamonas terrigena		bacteria_97	bacteria		AP019749
+192	Rhodoplanes piscinae		bacteria_98	bacteria		NPEW01000143
+193	Labrenzia sp VG12		bacteria_99	bacteria		CP022529
+194	Roseovarius albus		bacteria_100	bacteria		FWFX01000029
+195	Phaeobacter gallaeciensis		bacteria_101	bacteria		QEOS01000020
+196	Staphylococcus epidermidis ATCC 35984 		bacteria_102	bacteria		CP000029
+197	Helicobacter pylori ATCC 700392 		bacteria_103	bacteria		CP003904
+198	Thiomonas delicata Thiomonas cuprina		bacteria_104	bacteria		U67162
+199	Sedimentitalea sp W43		bacteria_105	bacteria		CP033219
+200	Streptomyces shenzhenensis		bacteria_106	bacteria		PENI01000074
+201	Blastococcus saxobsidens DD2		bacteria_107	bacteria		FO117623
+202	Bacillus sp YSP-3		bacteria_108	bacteria		PDOF01000008
+203	Clostridium aceticum		bacteria_109	bacteria		CP009687
+204	Actinoplanes sp N902-109		bacteria_110	bacteria		CP005929
+205	Roseomonas sp CQN31		bacteria_111	bacteria		QGNA01000011
+206	Microbacterium hydrocarbonoxydans		bacteria_112	bacteria		JYJB01000001
+207	Pelotomaculum propionicicum		bacteria_113	bacteria		AB154390
+208	Leptolyngbya sp O-77		bacteria_114	bacteria		AP017367
+209	Bacillus taeanensis		bacteria_115	bacteria		QOCW01000052
+210	Arenibacter sp C-21		bacteria_116	bacteria		BDGL02000067
+211	Oxobacter pfennigii		bacteria_117	bacteria		X77838
+212	Nitrospira defluvii		bacteria_118	bacteria		DQ059545
+213	Fervidicola ferrireducens		bacteria_119	bacteria		PVXM01000026
+214	Lactococcus lactis subsp lactis IL1403 		bacteria_120	bacteria		KC429785
+215	Nitrospira lenta		bacteria_121	bacteria		KF724505
+216	Bacteroides caccae		bacteria_122	bacteria		X83951
+217	Salinivirga cyanobacteriivorans		bacteria_123	bacteria		CP013118
+218	Bacteroides stercoris		bacteria_124	bacteria		WCLA01000003
+219	Tissierella creatinophila DSM 6911		bacteria_125	bacteria		LTDM01000055
+220	Acidithiobacillus sp CJ-2		bacteria_126	bacteria		RIZI01000077
+221	Blastococcus sp TF02A-30		bacteria_127	bacteria		QOHJ01000015
+222	Kuenenia stuttgartiensis		bacteria_128	bacteria		AF375995
+223	Caldilinea aerophila DSM 14535 		bacteria_129	bacteria		AB067647
+224	Arcobacter mytili LMG 24559		bacteria_130	bacteria		CP031219
+225	Prosthecochloris sp CIB 2401		bacteria_131	bacteria		CP016432
+226	Blastococcus sp CT_GayMR16		bacteria_132	bacteria		MK239637
+227	Anaerotignum neopropionicum		bacteria_133	bacteria		LRVM01000024
+228	Ktedonobacterales bacterium SCAWS-G2		bacteria_134	bacteria		CP035758
+229	Actinomyces howellii		bacteria_135	bacteria		X80411
+230	Mariprofundus sp EBB-1		bacteria_136	bacteria		RCFQ01000057
+231	Deinococcus sp K2S05-167		bacteria_137	bacteria		QYUJ01000014
+232	Clostridium septicum		bacteria_138	bacteria		CP034358
+233	Clostridium bornimense		bacteria_139	bacteria		HG917868
+234	Ardenticatena maritima		bacteria_140	bacteria		AB576167
+235	Nostoc sp PCC 7120 		bacteria_141	bacteria		KM019921
+236	Egibacter rhizosphaerae		bacteria_142	bacteria		CP036402
+237	Pontibacter sp SGAir0037		bacteria_143	bacteria		CP028092
+238	Flavobacterium succinicans		bacteria_144	bacteria		JMTM01000041
+239	Geovibrio thiophilus		bacteria_145	bacteria		AJ299402
+240	Saprospira grandis Lewin		bacteria_146	bacteria		CP002831
+241	Streptomyces sp CC53		bacteria_147	bacteria		MKXB01000236
+242	Gracilimonas sp 8A47		bacteria_148	bacteria		QGGB01000014
+243	Kiritimatiella glycovorans		bacteria_149	bacteria		CP010904
+244	Desulfuromonas sp DDH964		bacteria_150	bacteria		CP015080
+245	Rhodopirellula sp SM50		bacteria_151	bacteria		NTFY01000062
+246	Actinosynnema mirum ATCC 29888 		bacteria_152	bacteria		CP001630
+247	Rhodohalobacter barkolensis		bacteria_153	bacteria		PISP01000004
+248	Desulfosporosinus meridiei ATCC BAA-275 		bacteria_154	bacteria		CP003629
+249	Myxococcus stipitatus DSM 14675 		bacteria_155	bacteria		CP004025
+250	Parachlamydia acanthamoebae UV7		bacteria_156	bacteria		AJ715410
+251	[Clostridium] bolteae 90A9		bacteria_157	bacteria		AGYH01000002
+252	Dictyoglomus turgidum Z-1310 		bacteria_158	bacteria		CP001251
+253	Dysgonomonas capnocytophagoides		bacteria_159	bacteria		Y18530
+254	Sporomusa malonica		bacteria_160	bacteria		AJ279799
+255	Endomicrobium proavitum		bacteria_161	bacteria		CP009498
+256	Nitrolancea hollandica Lb		bacteria_162	bacteria		CAGS01000547
+257	Bacteriovorax stolpii		bacteria_163	bacteria		CP025704
+258	Thermoanaerobacterium thermosaccharolyticum ATCC 7956 		bacteria_164	bacteria		M59119
+259	Micromonospora nigra		bacteria_165	bacteria		FMHT01000003
+260	Harryflintia acetispora		bacteria_166	bacteria		QVEO01000049
+261	Robertkochia marina		bacteria_167	bacteria		SSMC01000007
+262	Halobacteriovorax sp DA5		bacteria_168	bacteria		PPDJ01000018
+263	Mucilaginibacter sp ZH6		bacteria_169	bacteria		QWDE01000009
+264	Bacteroides faecichinchillae		bacteria_170	bacteria		SSTN01000001
+265	Prevotella baroniae F0067		bacteria_171	bacteria		AWEY01000022
+266	Phycisphaera sp		bacteria_172	bacteria		NVSP01000179
+267	Dethiosulfatarculus sandiegensis		bacteria_173	bacteria		AZAC01000010
+268	Flavobacterium sp LB2P30		bacteria_174	bacteria		QCZH01000039
+269	Sphingobacterium sp 2c-3		bacteria_175	bacteria		QDKG01000011
+270	Streptomyces sp NRRL S-495		bacteria_176	bacteria		JZWY01000195
+271	Caldithrix abyssi DSM 13497		bacteria_177	bacteria		CP018099
+272	Desulfofustis glycolicus DSM 9705		bacteria_178	bacteria		FQXS01000088
+273	Proteiniphilum saccharofermentans		bacteria_179	bacteria		LT605205
+274	Marinithermus hydrothermalis DSM 14884 		bacteria_180	bacteria		CP002630
+275	Limnochorda pilosa		bacteria_181	bacteria		AP014924
+276	Megasphaera micronuciformis F0359		bacteria_182	bacteria		AECS01000020
+277	Chryseobacterium nematophagum		bacteria_183	bacteria		QWIV01000006
+278	Desulfovibrio alaskensis G20 		bacteria_184	bacteria		CP000112
+279	Mycolicibacterium holsaticum		bacteria_185	bacteria		AJ310467
+280	Meiothermus silvanus ATCC 700542 		bacteria_186	bacteria		X84211
+281	Oceanithermus profundus DSM 14977 		bacteria_187	bacteria		AJ430586
+282	Flaviaesturariibacter sp 17J68-12		bacteria_188	bacteria		SJZI01000046
+283	Desulfococcus multivorans DSM 2059		bacteria_189	bacteria		CP015381
+284	Terriglobus saanensis ATCC BAA-1853 		bacteria_190	bacteria		CP002467
+285	Melioribacter roseus JCM 17771 		bacteria_191	bacteria		CP003557
+286	Terriglobus roseus DSM 18391 		bacteria_192	bacteria		CP003379
+287	Parvibacter caecicola		bacteria_193	bacteria		SSTM01000012
+288	Roseiflexus sp RS-1		bacteria_194	bacteria		CP000686
+289	Chitinophaga pinensis ATCC 43595 		bacteria_195	bacteria		CP001699
+290	Desulfurispirillum indicum ATCC BAA-1389 		bacteria_196	bacteria		CP002432
+291	Granulicella rosea		bacteria_197	bacteria		FZOU01000006
+292	Gemmatimonas phototrophica		bacteria_198	bacteria		KF481682
+293	Mucilaginibacter lappiensis		bacteria_199	bacteria		FTMG01000033
+294	Desulfovibrio sp 6_1_46AFAA		bacteria_200	bacteria		ACWM01000085
+295	Chitinophaga niabensis		bacteria_201	bacteria		FSRA01000005
+296	Spirosoma radiotolerans		bacteria_202	bacteria		CP010429
+297	Pedobacter sp Hv1		bacteria_203	bacteria		LLWP01000001
+298	Rubrobacter xylanophilus DSM 9941 		bacteria_204	bacteria		CP000386
+299	Thermosulfurimonas dismutans		bacteria_205	bacteria		LWLG01000001
+300	[Clostridium] populeti		bacteria_206	bacteria		X71853
+301	Mucilaginibacter sp PPCGB 2223		bacteria_207	bacteria		MDJS01000007
+302	Conexibacter woesei DSM 14684 		bacteria_208	bacteria		CP001854
+303	Paramuribaculum intestinale		bacteria_209	bacteria		PUED01000303
+304	Acetivibrio ethanolgignens		bacteria_210	bacteria		LNAM01000152
+305	Leucobacter massiliensis		bacteria_211	bacteria		MWZD01000014
+306	Algoriphagus machipongonensis		bacteria_212	bacteria		AAXU02000001
+307	Pseudothermotoga thermarum DSM 5069		bacteria_213	bacteria		AB039769
+308	Pedobacter psychrophilus		bacteria_214	bacteria		LWHJ01000006
+309	Plesiocystis pacifica SIR-1		bacteria_215	bacteria		ABCS01000137
+310	Thermoflexus hugenholtzii		bacteria_216	bacteria		PDJQ01000001
+311	Marivirga tractuosa ATCC 23168 		bacteria_217	bacteria		M58789
+312	Leptotrichia buccalis ATCC 14201 		bacteria_218	bacteria		L37788
+313	Spirochaeta lutea		bacteria_219	bacteria		JNUP01000030
+314	Prevotella sp OH937_COT-195		bacteria_220	bacteria		RQZH01000045
+315	Terrimicrobium sacchariphilum		bacteria_221	bacteria		BDCO01000002
+316	Rubricoccus marinus		bacteria_222	bacteria		MQWB01000001
+317	Croceitalea dokdonensis DOKDO 023		bacteria_223	bacteria		LDJX01000004
+318	Pedobacter luteus		bacteria_224	bacteria		FUYR01000009
+319	Hymenobacter sedentarius		bacteria_225	bacteria		CP013909
+320	Pseudoarcobacter caeni		bacteria_226	bacteria		MUXE01000030
+321	Leucobacter chromiiresistens		bacteria_227	bacteria		LDRK01000056
+322	Butyrivibrio proteoclasticus		bacteria_228	bacteria		U37378
+323	Opitutaceae bacterium TSB47		bacteria_229	bacteria		LRRQ01000112
+324	Opitutus terrae DSM 11246 		bacteria_230	bacteria		AJ229235
+325	Abditibacterium utsteinense		bacteria_231	bacteria		NIGF01000045
+326	Pelolinea submarina		bacteria_232	bacteria		AP018437
+327	Cloacibacillus sp An23		bacteria_233	bacteria		NFJQ01000010
+328	Psychroflexus halocasei		bacteria_234	bacteria		FNQF01000023
+329	Mesotoga prima MesG1Ag42		bacteria_235	bacteria		CP003532
+330	Bifidobacterium cuniculi		bacteria_236	bacteria		M58734
+331	Rubritalea profundi		bacteria_237	bacteria		MQWA01000004
+332	Treponema berlinense		bacteria_238	bacteria		FUXC01000032
+333	Actinomyces tangfeifanii		bacteria_239	bacteria		CP017812
+334	Cruoricaptor ignavus		bacteria_240	bacteria		FQYI01000003
+335	Dubosiella newyorkensis		bacteria_241	bacteria		MPKA01000044
+336	Fibrobacter sp UWB8		bacteria_242	bacteria		FQVZ01000026
+337	Bifidobacterium bohemicum DSM 22767		bacteria_243	bacteria		JGYP01000004
+338	Dehalogenimonas lykanthroporepellens ATCC BAA-1523 		bacteria_244	bacteria		CP002084
+339	Elusimicrobium sp An273		bacteria_245	bacteria		NFJD01000005
+340	Mycoplasma marinum		bacteria_246	bacteria		PSZO01000002
+341	Mycoplasma synoviae 53		bacteria_247	bacteria		AE017245
+342	Mycoplasma orale		bacteria_248	bacteria		LR214940
+343	Mycoplasma gallopavonis		bacteria_249	bacteria		LR215031
+344	Halobacterium salinarum ATCC 700922 		archaea_0	archaea		BK010829
+345	Haloarcula marismortui ATCC 43049 		archaea_1	archaea		AB663354
+346	Haloferax volcanii ATCC 29605 		archaea_2	archaea		AY425724
+347	Natrialba magadii ATCC 43099 		archaea_3	archaea		AB663458
+348	Natronomonas moolapensis DSM 18674 		archaea_4	archaea		AB663431
+349	Natronomonas pharaonis ATCC 35678 		archaea_5	archaea		CR936257
+350	Haloquadratum walsbyi DSM 16790 		archaea_6	archaea		AM180088
+351	Methanobacterium congolense		archaea_7	archaea		LT607756
+352	Halanaeroarchaeum sulfurireducens		archaea_8	archaea		CP008874
+353	Halorhabdus tiamatea SARL4B		archaea_9	archaea		AFNT02000002
+354	Methanoculleus bourgensis ATCC 43281 		archaea_10	archaea		HE964772
+355	Methanocella arvoryzae DSM 22066 		archaea_11	archaea		AM114193
+356	Halodesulfurarchaeum formicicum		archaea_12	archaea		CP016070
+357	Natrarchaeobius chitinivorans		archaea_13	archaea		REFZ01000044
+358	Methanothrix soehngenii ATCC 5969 		archaea_14	archaea		X16932
+359	Natronobacterium gregoryi ATCC 43098 		archaea_15	archaea		D87970
+360	Halomarina oriensis		archaea_16	archaea		AB663390
+361	Methanobrevibacter woesei		archaea_17	archaea		U55237
+362	Methanobrevibacter sp AbM4		archaea_18	archaea		AJ550156
+363	Halapricum salinum		archaea_19	archaea		KJ184543
+364	Halarchaeum sp CBA1220		archaea_20	archaea		RIZB01000002
+365	Methanobrevibacter filiformis		archaea_21	archaea		LWMT01000072
+366	Halobellus limi		archaea_22	archaea		GU208828
+367	Natronomonas sp F20-122		archaea_23	archaea		QKNX01000003
+368	Nitrososphaera viennensis EN76		archaea_24	archaea		FR773157
+369	Candidatus Nitrosocosmicus franklandus		archaea_25	archaea		LR216287
+370	Halobiforma lacisalsi AJ5		archaea_26	archaea		CP019285
+371	Natrialba asiatica ATCC 700177 		archaea_27	archaea		D14123
+372	Halogeometricum borinquense ATCC 700274 		archaea_28	archaea		AF002984
+373	Methanofollis sp FWC-SCC2		archaea_29	archaea		PGCL01000011
+374	Haloterrigena limicola JCM 13563		archaea_30	archaea		AB663445
+375	Natronolimnobius sp AArc-Mg		archaea_31	archaea		CP027033
+376	Haloarchaeobius iranensis		archaea_32	archaea		FNIA01000003
+377	Halomicrobium mukohataei ATCC 700874 		archaea_33	archaea		EF645690
+378	Methanocella paludicola DSM 17711 		archaea_34	archaea		AP011532
+379	Halosimplex carlsbadense 2-9-1		archaea_35	archaea		HQ263561
+380	Candidatus Methanoperedens nitroreducens		archaea_36	archaea		FZMP01000092
+381	Natronolimnobius baerhuensis		archaea_37	archaea		AB663471
+382	Halobellus clavatus		archaea_38	archaea		AB663365
+383	Natrinema pellirubrum DSM 15624 		archaea_39	archaea		AB663464
+384	Halohasta litchfieldiae		archaea_40	archaea		CP024845
+385	Methanothermobacter thermautotrophicus ATCC 29096 		archaea_41	archaea		AE000666
+386	Halopiger salifodinae		archaea_42	archaea		JX014296
+387	Methanobrevibacter sp NOE		archaea_43	archaea		NIZT01000063
+388	Haloterrigena daqingensis		archaea_44	archaea		AB663442
+389	Methanolobus tindarius DSM 2278		archaea_45	archaea		AZAJ01000001
+390	Methanohalophilus mahii ATCC 35705 		archaea_46	archaea		CP001994
+391	Halorientalis sp IM1011		archaea_47	archaea		CP019067
+392	Halopelagius inordinatus		archaea_48	archaea		AB663394
+393	Halostagnicola larsenii XH-48		archaea_49	archaea		CP007055
+394	Halomicrobium zhouii		archaea_50	archaea		HM063952
+395	Halolamina pelagica		archaea_51	archaea		GU208826
+396	Methanohalobium evestigatum ATCC BAA-1072 		archaea_52	archaea		CP002069
+397	Halogeometricum pallidum JCM 14848		archaea_53	archaea		AB663429
+398	Halobaculum gomorrense		archaea_54	archaea		L37444
+399	Natronoarchaeum philippinense		archaea_55	archaea		OBEJ01000011
+400	Halopiger xanaduensis DSM 18323 		archaea_56	archaea		AM268114
+401	Natronococcus occultus SP4		archaea_57	archaea		CP003929
+402	Halobacterium sp DL1		archaea_58	archaea		CP007060
+403	Halobacterium jilantaiense		archaea_59	archaea		AB663359
+404	Halorubrum vacuolatum Natronobacterium vacuolatum		archaea_60	archaea		D87972
+405	Halopenitus malekzadehii		archaea_61	archaea		FNWU01000002
+406	Halorubrum halodurans		archaea_62	archaea		NHPJ01000020
+407	Methanoregula boonei DSM 21154 		archaea_63	archaea		CP000780
+408	Methanoregula formicica DSM 22288 		archaea_64	archaea		FRFC01000003
+409	Methanospirillum hungatei JF-1 ATCC 27890 		archaea_65	archaea		CP000254
+410	Halococcus saccharolyticus DSM 5350		archaea_66	archaea		AB004876
+411	Halophilic archaeon DL31		archaea_67	archaea		CP002988
+412	Methanomethylovorans hollandica DSM 15978 		archaea_68	archaea		CP003362
+413	Methanolacinia petrolearia DSM 11571 		archaea_69	archaea		U76631
+414	Methanosphaera stadtmanae ATCC 43021 		archaea_70	archaea		CP000102
+415	Candidatus Methanoplasma termitum		archaea_71	archaea		CP010070
+416	Halarchaeum acidiphilum MH1-52-1		archaea_72	archaea		BATA01000133
+417	Methanoculleus taiwanensis		archaea_73	archaea		LHQS01000005
+418	Halalkalicoccus jeotgali DSM 18796 		archaea_74	archaea		AB663348
+419	Methanosphaerula palustris ATCC BAA-1556 		archaea_75	archaea		EU156000
+420	Halolamina sp CBA1230		archaea_76	archaea		MWUK01000003
+421	Methanosaeta harundinacea 6Ac		archaea_77	archaea		CP003117
+422	Methanobacterium lacus AL-21		archaea_78	archaea		CP002551
+423	Candidatus Syntrophoarchaeum caldarius		archaea_79	archaea		LYOS01000002
+424	Methanocorpusculum labreanum ATCC 43576 		archaea_80	archaea		CP000559
+425	Candidatus Syntrophoarchaeum butanivorans		archaea_81	archaea		LYOR01000001
+426	Candidatus Nitrosopumilus salaria BD31		archaea_82	archaea		AEXL02000090
+427	Candidatus Bathyarchaeota archaeon		archaea_83	archaea		SPBR01000010
+428	Methanomassiliicoccus intestinalis Issoire-Mx1		archaea_84	archaea		CP005934
+429	Candidatus Methanohalarchaeum thermophilum		archaea_85	archaea		MSDW01000001
+430	Picrophilus torridus ATCC 700027 		archaea_86	archaea		AE017261
+431	Acidiplasma cupricumulans		archaea_87	archaea		LKBH01000298
+432	Thermoplasmatales archaeon Gpl		archaea_88	archaea		JN881607
+433	Methanonatronarchaeum thermophilum		archaea_89	archaea		MRZU01000004
+434	Methanomethylophilus alvus Mx1201		archaea_90	archaea		CP004049
+435	Methanogenic archaeon ISO4-H5		archaea_91	archaea		CP014214
+436	Thermoplasmatales archaeon BRNA1		archaea_92	archaea		CP002916
