@@ -6,3 +6,9 @@ stringr 1.4.0
 
 pandas 0.23.4
 numpy 1.16.6
+matplotlib 2.0.2
+scipy 1.2.3
+seaborn 0.8.1
+
+Clustal Omega - 1.2.4 (AndreaGiacomo)
+CD-HIT version 4.7 (built on Nov 13 2018)
