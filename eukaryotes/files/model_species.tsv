@@ -1,0 +1,9 @@
+	species	class	mart	host	dataset_extension
+0	hsapiens	ensembl	ENSEMBL_MART_ENSEMBL	www.ensembl.org	_gene_ensembl
+1	ggallus	ensembl	ENSEMBL_MART_ENSEMBL	www.ensembl.org	_gene_ensembl
+2	drerio	ensembl	ENSEMBL_MART_ENSEMBL	www.ensembl.org	_gene_ensembl
+3	xtropicalis	ensembl	ENSEMBL_MART_ENSEMBL	www.ensembl.org	_gene_ensembl
+4	celegans	metazoa	metazoa_mart	metazoa.ensembl.org	_eg_gene
+5	dmelanogaster	metazoa	metazoa_mart	metazoa.ensembl.org	_eg_gene
+6	scerevisiae	fungi	fungi_mart	fungi.ensembl.org	_eg_gene
+7	athaliana	plants	plants_mart	plants.ensembl.org	_eg_gene

@@ -1,0 +1,313 @@
+	abbreviation	genes_amount	hsp40	hsp40_bool	hsp70	hsp70_bool	prokaryotes_class	proteome_id	rRNA	species	species_name	terms_amount
+0	bacteria_0	3332.0	P0A6Y8	True	P0A6Y8	True	bacteria	UP000000625	AP009048	Escherichia coli (strain K12)	Escherichia coli K12	3095.0
+1	bacteria_1	2342.0	Q56073, Q8ZQY6, Q8ZNQ4	True	Q56073, Q8ZQY6, Q8ZNQ4	True	bacteria	UP000001014	AE006468	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	Salmonella typhimurium LT2 	2294.0
+2	bacteria_2	1762.0	Q9HV43	True	Q9HV43	True	bacteria	UP000002438	CP017149	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	Pseudomonas aeruginosa ATCC 15692 	2262.0
+3	bacteria_3	1544.0	P9WMJ9	True	P9WMJ9	True	bacteria	UP000001584	AL123456	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	Mycobacterium tuberculosis ATCC 25618 	2077.0
+4	bacteria_4	2315.0	P17820	True	P17820	True	bacteria	UP000001570	CP010052	Bacillus subtilis (strain 168)	Bacillus subtilis 168	2022.0
+5	bacteria_5	1532.0	Q8ZIM7	True	Q8ZIM7	True	bacteria	UP000000815	VIDY01000143	Yersinia pestis	Yersinia pestis	1884.0
+6	bacteria_6	2204.0	P0A6Z0, A0A0H3JGD7, Q8X7J9	True	P0A6Z0, A0A0H3JGD7, Q8X7J9	True	bacteria	UP000000558	CP035366	Escherichia coli O157:H7	Escherichia coli O157:H7	1849.0
+7	bacteria_7	1417.0	Q8EHT7, Q8EF16	True	Q8EHT7, Q8EF16	True	bacteria	UP000008186	MK778510	Shewanella oneidensis (strain MR-1)	Shewanella oneidensis MR-1	1816.0
+8	bacteria_8	1747.0	A6T4F4	True	A6T4F4	True	bacteria	UP000000265	CP000647	Klebsiella pneumoniae subsp. pneumoniae (strain ATCC 700721 / MGH 78578)	Klebsiella pneumoniae subsp pneumoniae ATCC 700721 	1699.0
+9	bacteria_9	902.0	O34241	True	O34241	True	bacteria	UP000000584	AE003852	Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961)	Vibrio cholerae serotype O1 ATCC 39315 	1664.0
+10	bacteria_10	1017.0	P43736	True	P43736	True	bacteria	UP000000579	L42023	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	Haemophilus influenzae ATCC 51907 	1660.0
+11	bacteria_11	1503.0	A0A085AC11	True	A0A085AC11	True	bacteria	UP000028630	JMTB01000142	Trabulsiella guamensis ATCC 49490	Trabulsiella guamensis ATCC 49490	1636.0
+12	bacteria_12	1755.0	E1SIN7, E1SCG5	True	E1SIN7, E1SCG5	True	bacteria	UP000006631	CP002206	Pantoea vagans (strain C9-1) (Pantoea agglomerans (strain C9-1))	Pantoea vagans C9-1 	1619.0
+13	bacteria_13	1674.0	A0A1Y6IQG5, A0A1Y6IN77, A0A1Y6ISR0	True	A0A1Y6IQG5, A0A1Y6IN77, A0A1Y6ISR0	True	bacteria	UP000196125	FXXI01000024	Vibrio mangrovi	Vibrio mangrovi	1555.0
+14	bacteria_14	1522.0	A0A0U5KZD9	True	A0A0U5KZD9	True	bacteria	UP000059419	LN907827	Erwinia gerundensis	Erwinia gerundensis	1555.0
+15	bacteria_15	1040.0	Q74H59	True	Q74H59	True	bacteria	UP000000577	AE017180	Geobacter sulfurreducens (strain ATCC 51573 / DSM 12127 / PCA)	Geobacter sulfurreducens ATCC 51573 	1549.0
+16	bacteria_16	1822.0	A0A6J5FNG0, A0A6J5GP65	True	A0A6J5FNG0, A0A6J5GP65	True	bacteria	UP000494252	HE862279	Paraburkholderia fynbosensis	Paraburkholderia fynbosensis	1511.0
+17	bacteria_17	1230.0	Q87WP0	True	Q87WP0	True	bacteria	UP000002515	AE016853	Pseudomonas syringae pv. tomato (strain ATCC BAA-871 / DC3000)	Pseudomonas syringae pv tomato ATCC BAA-871 	1509.0
+18	bacteria_18	1259.0	A0A068QNF8	True	A0A068QNF8	True	bacteria	UP000032721	FO704550	Xenorhabdus doucetiae	Xenorhabdus doucetiae	1489.0
+19	bacteria_19	1427.0	Q4KIH1	True	Q4KIH1	True	bacteria	UP000008540	CP000076	Pseudomonas fluorescens (strain ATCC BAA-477 / NRRL B-23932 / Pf-5)	Pseudomonas fluorescens ATCC BAA-477 	1479.0
+20	bacteria_20	881.0	A8ALU3	True	A8ALU3	True	bacteria	UP000008148	LK931336	Citrobacter koseri (strain ATCC BAA-895 / CDC 4225-83 / SGSC4696)	Citrobacter koseri ATCC BAA-895 	1468.0
+21	bacteria_21	1161.0	U2ZLM6	True	U2ZLM6	True	bacteria	UP000016570	BATJ01000038	Vibrio proteolyticus NBRC 13287	Vibrio proteolyticus NBRC 13287	1462.0
+22	bacteria_22	1146.0	E1VAU4	True	E1VAU4	True	bacteria	UP000008707	AJ295147	Halomonas elongata (strain ATCC 33173 / DSM 2581 / NBRC 15536 / NCIMB 2198 / 1H9)	Halomonas elongata ATCC 33173 	1443.0
+23	bacteria_23	1852.0	A0A0H2MFI3, A0A0H2M169	True	A0A0H2MFI3, A0A0H2M169	True	bacteria	UP000035170	CP045644	Variovorax paradoxus	Variovorax paradoxus	1439.0
+24	bacteria_24	1373.0	A0A109UN96	True	A0A109UN96	True	bacteria	UP000063387	CP014226	Halomonas chromatireducens	Halomonas chromatireducens	1434.0
+25	bacteria_25	1123.0	A9AGB8	True	A9AGB8	True	bacteria	UP000008815	AP009385	Burkholderia multivorans (strain ATCC 17616 / 249)	Burkholderia multivorans ATCC 17616 	1434.0
+26	bacteria_26	1650.0	A0A0M2WP34, A0A0M2WJT3, A0A0M2WLI4, A0A0M2WII7	True	A0A0M2WP34, A0A0M2WJT3, A0A0M2WLI4, A0A0M2WII7	True	bacteria	UP000034315	VCCE02000001	Janthinobacterium sp. KBS0711	Janthinobacterium sp KBS0711	1432.0
+27	bacteria_27	1594.0	A0A239SS43, A0A239SNR2	True	A0A239SS43, A0A239SNR2	True	bacteria	UP000215126	CP010431	Pandoraea sputorum	Pandoraea sputorum	1415.0
+28	bacteria_28	788.0	Q8CWT3	True	Q8CWT3	True	bacteria	UP000000586	AE007317	Streptococcus pneumoniae (strain ATCC BAA-255 / R6)	Streptococcus pneumoniae ATCC BAA-255 	1412.0
+29	bacteria_29	1075.0	A0A1N7S5T0	True	A0A1N7S5T0	True	bacteria	UP000187012	CYGX02000033	Paraburkholderia ribeironis	Paraburkholderia ribeironis	1405.0
+30	bacteria_30	1296.0	D4X8E9	True	D4X8E9	True	bacteria	UP000004510	ADMS01000149	Achromobacter piechaudii ATCC 43553	Achromobacter piechaudii ATCC 43553	1402.0
+31	bacteria_31	1162.0	S6BNN4	True	S6BNN4	True	bacteria	UP000015503	AP013068	Pseudomonas resinovorans NBRC 106553	Pseudomonas resinovorans NBRC 106553	1395.0
+32	bacteria_32	734.0	P61443	True	P61443	True	bacteria	UP000001408	AE010300	Leptospira interrogans serogroup Icterohaemorrhagiae serovar Lai (strain 56601)	Leptospira interrogans serogroup Icterohaemorrhagiae serovar Lai 56601	1395.0
+33	bacteria_33	1691.0	E3E9G3, E3E5C5	True	E3E9G3, E3E5C5	True	bacteria	UP000006868	CP002213	Paenibacillus polymyxa (strain SC2) (Bacillus polymyxa)	Paenibacillus polymyxa SC2 	1382.0
+34	bacteria_34	1129.0	Q7NXI3	True	Q7NXI3	True	bacteria	UP000001424	AE016825	Chromobacterium violaceum (strain ATCC 12472 / DSM 30191 / JCM 1249 / NBRC 12614 / NCIMB 9131 / NCTC 9757)	Chromobacterium violaceum ATCC 12472 	1376.0
+35	bacteria_35	1000.0	A0A7Z2YED5	True	A0A7Z2YED5	True	bacteria	UP000464262	CP047475	Vibrio astriarenae	Vibrio astriarenae	1373.0
+36	bacteria_36	1034.0	A0A386E3A9, A0A386DVN1	True	A0A386E3A9, A0A386DVN1	True	bacteria	UP000265971	CP030827	Neorhizobium sp. NCHU2750	Neorhizobium sp NCHU2750	1371.0
+37	bacteria_37	1353.0	A0A1Y0N5H2, A0A1Y0N568, A0A1Y0N805	True	A0A1Y0N5H2, A0A1Y0N568, A0A1Y0N805	True	bacteria	UP000196261	CP015698	Curvibacter sp. AEP1-3	Curvibacter sp AEP1-3	1369.0
+38	bacteria_38	1475.0	A0A0A1MZN2	True	A0A0A1MZN2	True	bacteria	UP000040453	JX280491	Oceanobacillus oncorhynchi	Oceanobacillus oncorhynchi	1362.0
+39	bacteria_39	858.0	A0A014MCT7	True	A0A014MCT7	True	bacteria	UP000019918	AJ233414	Erwinia mallotivora	Erwinia mallotivora	1360.0
+40	bacteria_40	1263.0	A0A6H2HAH1, A0A6H2H7V5, A0A6H2H859	True	A0A6H2HAH1, A0A6H2H7V5, A0A6H2H859	True	bacteria	UP000502041	CP051461	Polaromonas vacuolata	Polaromonas vacuolata	1358.0
+41	bacteria_41	1098.0	P50019	True	P50019	True	bacteria	UP000000813	AE007869	Agrobacterium fabrum (strain C58 / ATCC 33970) (Agrobacterium tumefaciens (strain C58))	Agrobacterium fabrum C58 	1356.0
+42	bacteria_42	1834.0	A0A1K2FGJ4, A0A1K2FYP0	True	A0A1K2FGJ4, A0A1K2FYP0	True	bacteria	UP000095403	FKJI03000002	Streptomyces sp. F-1	Streptomyces sp F-1	1354.0
+43	bacteria_43	1409.0	A0A5C0WLM5	True	A0A5C0WLM5	True	bacteria	UP000325032	CP069061	Bacillus safensis	Bacillus safensis	1351.0
+44	bacteria_44	1008.0	Q81LS2, A0A6L8PDF2	True	Q81LS2, A0A6L8PDF2	True	bacteria	UP000000594	MH463550	Bacillus anthracis	Bacillus anthracis	1349.0
+45	bacteria_45	769.0	A5I640, A5I3N4	True	A5I640, A5I3N4	True	bacteria	UP000001986	CP000727	Clostridium botulinum (strain Hall / ATCC 3502 / NCTC 13319 / Type A)	Clostridium botulinum Hall 	1349.0
+46	bacteria_46	2029.0	A0A177HVL8, A0A177HF83, A0A177HFI1	True	A0A177HVL8, A0A177HF83, A0A177HFI1	True	bacteria	UP000077381	LOHS01000151	Streptomyces jeddahensis	Streptomyces jeddahensis	1348.0
+47	bacteria_47	1337.0	A0A2R8BSS8	True	A0A2R8BSS8	True	bacteria	UP000244912	ONZF01000036	Palleronia abyssalis	Palleronia abyssalis	1348.0
+48	bacteria_48	1292.0	A0A1Y5RIJ5	True	A0A1Y5RIJ5	True	bacteria	UP000193200	FWFR01000014	Oceanibacterium hippocampi	Oceanibacterium hippocampi	1344.0
+49	bacteria_49	1144.0	G7Z420	True	G7Z420	True	bacteria	UP000005667	FQ311868	Azospirillum lipoferum (strain 4B)	Azospirillum lipoferum 4B	1342.0
+50	bacteria_50	2022.0	A0A2Z5K4M2, A0A2Z5KBF9	True	A0A2Z5K4M2, A0A2Z5KBF9	True	bacteria	UP000253251	CP026121	Streptomyces sp. Go-475	Streptomyces sp Go-475	1340.0
+51	bacteria_51	1245.0	A0A2R8B8U2, A0A2R8BAS8	True	A0A2R8B8U2, A0A2R8BAS8	True	bacteria	UP000244880	OMOR01000001	Ascidiaceihabitans donghaensis	Ascidiaceihabitans donghaensis	1340.0
+52	bacteria_52	1508.0	Q826F6, Q82EX9	True	Q826F6, Q82EX9	True	bacteria	UP000000428	LMWT01000083	Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NBRC 14893 / NCIMB 12804 / NRRL 8165 / MA-4680)	Streptomyces avermitilis ATCC 31267 	1336.0
+53	bacteria_53	1519.0	A0A7K0CIN0, A0A7K0CL39, A0A7K0CA12	True	A0A7K0CIN0, A0A7K0CL39, A0A7K0CA12	True	bacteria	UP000466345	WEGL01000037	Streptomyces smaragdinus	Streptomyces smaragdinus	1306.0
+54	bacteria_54	816.0	A0A095T1L8	True	A0A095T1L8	True	bacteria	UP000029577	JPKR02000005	Tatumella morbirosei	Tatumella morbirosei	1304.0
+55	bacteria_55	759.0	O67118	True	O67118	True	bacteria	UP000000798	AE000657	Aquifex aeolicus (strain VF5)	Aquifex aeolicus VF5	1303.0
+56	bacteria_56	1224.0	A0A1Y5SZI9, A0A1Y5SGB1	True	A0A1Y5SZI9, A0A1Y5SGB1	True	bacteria	UP000193307	JAHKPK010000015	Pacificibacter marinus	Pacificibacter marinus	1297.0
+57	bacteria_57	1766.0	H8MHG2, H8MZT2, H8MUG9, H8MLP8, H8MJX8, H8MLP9, H8MSB6, H8MYT1, H8MQ08, H8MSL1, H8MNU0, H8MQ81, H8MJC1, H8MYX9, H8MII0, H8MN43	True	H8MHG2, H8MZT2, H8MUG9, H8MLP8, H8MJX8, H8MLP9, H8MSB6, H8MYT1, H8MQ08, H8MSL1, H8MNU0, H8MQ81, H8MJC1, H8MYX9, H8MII0, H8MN43	True	bacteria	UP000007587	AJ811588	Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) (Myxococcus coralloides)	Corallococcus coralloides ATCC 25202 	1295.0
+58	bacteria_58	1662.0	A0A7K0C7W3, A0A7K0BUP2	True	A0A7K0C7W3, A0A7K0BUP2	True	bacteria	UP000487268	WEGH01000011	Actinomadura macrotermitis	Actinomadura macrotermitis	1293.0
+59	bacteria_59	777.0	A0A0Q2S946	True	A0A0Q2S946	True	bacteria	UP000051221	CP002377	Vibrio furnissii	Vibrio furnissii	1293.0
+60	bacteria_60	1495.0	A0A378TM87, A0A378TID7, A0A378TI24, A0A378TKL8	True	A0A378TM87, A0A378TID7, A0A378TI24, A0A378TKL8	True	bacteria	UP000254978	AP022600	Mycolicibacterium tokaiense	Mycolicibacterium tokaiense	1288.0
+61	bacteria_61	805.0	A0A5B8SRJ0	True	A0A5B8SRJ0	True	bacteria	UP000321272	CP042382	Pistricoccus aurantiacus	Pistricoccus aurantiacus	1280.0
+62	bacteria_62	1039.0	A0A0M7BAR2	True	A0A0M7BAR2	True	bacteria	UP000049455	CYPR01000094	Jannaschia seosinensis	Jannaschia seosinensis	1269.0
+63	bacteria_63	1509.0	A0A378YA40, A0A378YC30, A0A378YQW0	True	A0A378YA40, A0A378YC30, A0A378YQW0	True	bacteria	UP000255467	JADLPU010000020	Nocardia otitidiscaviarum	Nocardia otitidiscaviarum	1266.0
+64	bacteria_64	1160.0	A0A098EL27	True	A0A098EL27	True	bacteria	UP000043699	CCXS01000001	Planococcus massiliensis	Planococcus massiliensis	1257.0
+65	bacteria_65	850.0	R4SQP7, R4TK03	True	R4SQP7, R4TK03	True	bacteria	UP000013968	AJ278496	Amycolatopsis keratiniphila	Amycolatopsis keratiniphila	1257.0
+66	bacteria_66	1474.0	A0A1U7MLH1, A0A1U7MJ56	True	A0A1U7MLH1, A0A1U7MJ56	True	bacteria	UP000186950	LSLJ01000007	Sporomusa sphaeroides DSM 2875	Sporomusa sphaeroides DSM 2875	1256.0
+67	bacteria_67	1159.0	A0A1X6Y8R1, A0A1X6YV28	True	A0A1X6Y8R1, A0A1X6YV28	True	bacteria	UP000193061	FWFX01000029	Roseovarius albus	Roseovarius albus	1240.0
+68	bacteria_68	681.0	A0A2U2HDQ9	True	A0A2U2HDQ9	True	bacteria	UP000241421	KJ755877	Massilia glaciei	Massilia glaciei	1240.0
+69	bacteria_69	1187.0	A0A4R8RCG4, A0A4R8QXJ0, A0A4R8R4H4	True	A0A4R8RCG4, A0A4R8QXJ0, A0A4R8R4H4	True	bacteria	UP000295165	MVHQ01000003	Mycobacteroides franklinii	Mycobacteroides franklinii	1239.0
+70	bacteria_70	1316.0	A0A517DUB7, A0A517DZ05, A0A517E064, A0A517DY35	True	A0A517DUB7, A0A517DZ05, A0A517E064, A0A517DY35	True	bacteria	UP000320776	CP036259	Sporomusa termitida	Sporomusa termitida	1237.0
+71	bacteria_71	701.0	A0A4Q1JYQ6	True	A0A4Q1JYQ6	True	bacteria	UP000289784	SAWZ01000021	Pseudoxanthomonas composti	Pseudoxanthomonas composti	1234.0
+72	bacteria_72	812.0	A0A1B0ZMA1, A0A1B0ZT14	True	A0A1B0ZMA1, A0A1B0ZT14	True	bacteria	UP000092565	QEOS01000020	Phaeobacter gallaeciensis	Phaeobacter gallaeciensis	1226.0
+73	bacteria_73	706.0	A0A1B3PQ55	True	A0A1B3PQ55	True	bacteria	UP000094760	CP016447	Acidovorax sp. RAC01	Acidovorax sp RAC01	1226.0
+74	bacteria_74	958.0	A0A380H313	True	A0A380H313	True	bacteria	UP000255425	CP068029	Staphylococcus saccharolyticus	Staphylococcus saccharolyticus	1224.0
+75	bacteria_75	1067.0	A0A0N7J9T2	True	A0A0N7J9T2	True	bacteria	UP000063254	CP011834	Limnohabitans sp. 103DPR2	Limnohabitans sp 103DPR2	1223.0
+76	bacteria_76	837.0	A0A238D7K9	True	A0A238D7K9	True	bacteria	UP000214566	U67162	Thiomonas delicata (Thiomonas cuprina)	Thiomonas delicata Thiomonas cuprina	1214.0
+77	bacteria_77	1016.0	M7NFC9	True	M7NFC9	True	bacteria	UP000011919	AOFT01000036	Bhargavaea cecembensis DSE10	Bhargavaea cecembensis DSE10	1211.0
+78	bacteria_78	715.0	A0A515EMV1	True	A0A515EMV1	True	bacteria	UP000317365	CP036282	Rhodoferax sediminis	Rhodoferax sediminis	1210.0
+79	bacteria_79	860.0	A0A448VLK6	True	A0A448VLK6	True	bacteria	UP000272771	AFWR01000009	Neisseria weaveri	Neisseria weaveri	1208.0
+80	bacteria_80	672.0	A0A2A7UZ25	True	A0A2A7UZ25	True	bacteria	UP000220246	AP019749	Comamonas terrigena	Comamonas terrigena	1206.0
+81	bacteria_81	1381.0	A0A2S9XXQ1, A0A2S9XXD7, A0A2S9XIG0, A0A2S9YFZ4, A0A2S9YG91, A0A2S9XN90, A0A2S9XAY9	True	A0A2S9XXQ1, A0A2S9XXD7, A0A2S9XIG0, A0A2S9YFZ4, A0A2S9YG91, A0A2S9XN90, A0A2S9XAY9	True	bacteria	UP000237968	AB097590	Enhygromyxa salina	Enhygromyxa salina	1205.0
+82	bacteria_82	1134.0	A0A142YCN1, A0A142YDL6, A0A142YIT5, A0A142YDN4, A0A142YD30	True	A0A142YCN1, A0A142YDL6, A0A142YIT5, A0A142YDN4, A0A142YD30	True	bacteria	UP000076365	CP011273	Planctomyces sp. SH-PL62	Planctomyces sp SH-PL62	1202.0
+83	bacteria_83	1123.0	A0A0M2H8R5, A0A0M2H3T8	True	A0A0M2H8R5, A0A0M2H3T8	True	bacteria	UP000033956	JYIZ01000009	Microbacterium ketosireducens	Microbacterium ketosireducens	1200.0
+84	bacteria_84	1119.0	A0A518J1P7, A0A518J206, A0A518ISK3, A0A518IWA2, A0A518IV50	True	A0A518J1P7, A0A518J206, A0A518ISK3, A0A518IWA2, A0A518IV50	True	bacteria	UP000316770	CP036318	Rosistilla oblonga	Rosistilla oblonga	1198.0
+85	bacteria_85	657.0	A0A222FAL5	True	A0A222FAL5	True	bacteria	UP000214862	CP022529	Labrenzia sp. VG12	Labrenzia sp VG12	1198.0
+86	bacteria_86	1274.0	A0A348AIC1, A0A348AH16, A0A348ANX8, A0A348ANH1, A0A348AHD3	True	A0A348AIC1, A0A348AH16, A0A348ANX8, A0A348ANH1, A0A348AHD3	True	bacteria	UP000276437	AP018449	Methylomusa anaerophila	Methylomusa anaerophila	1196.0
+87	bacteria_87	729.0	A0A6M2BV77	True	A0A6M2BV77	True	bacteria	UP000472676	JAAMOW010000006	Solimonas terrae	Solimonas terrae	1196.0
+88	bacteria_88	893.0	A0A7I7YXS5, A0A7I7Z038	True	A0A7I7YXS5, A0A7I7Z038	True	bacteria	UP000467105	AF466821	Mycobacterium parmense	Mycobacterium parmense	1187.0
+89	bacteria_89	1085.0	A0A0F0KX71	True	A0A0F0KX71	True	bacteria	UP000033572	CP041040	Microbacterium foliorum	Microbacterium foliorum	1183.0
+90	bacteria_90	1150.0	A0A5B9QKV2, A0A5B9QTE5, A0A5B9QLY7	True	A0A5B9QKV2, A0A5B9QTE5, A0A5B9QLY7	True	bacteria	UP000325286	CP042914	Roseimaritima ulvae	Roseimaritima ulvae	1181.0
+91	bacteria_91	794.0	A0A4P7QJS8	True	A0A4P7QJS8	True	bacteria	UP000296352	CP039247	Corynebacterium endometrii	Corynebacterium endometrii	1181.0
+92	bacteria_92	1093.0	A0A5C5Y2S8, A0A5C5Y0B7	True	A0A5C5Y2S8, A0A5C5Y0B7	True	bacteria	UP000317238	CP036319	Crateriforma conspicua	Crateriforma conspicua	1179.0
+93	bacteria_93	1214.0	A0A1U7CUL7, A0A1U7CUV4, A0A1U7CVT0, A0A1U7CJA0, A0A1U7CJD7	True	A0A1U7CUL7, A0A1U7CUV4, A0A1U7CVT0, A0A1U7CJA0, A0A1U7CJD7	True	bacteria	UP000186309	CP019082	Paludisphaera borealis	Paludisphaera borealis	1178.0
+94	bacteria_94	761.0	A0A8H9MEA7, A0A8H9IST6	True	A0A8H9MEA7, A0A8H9IST6	True	bacteria	UP000658656	VJZB01000146	Amycolatopsis bartoniae	Amycolatopsis bartoniae	1178.0
+95	bacteria_95	1148.0	A0A2T0BJ84	True	A0A2T0BJ84	True	bacteria	UP000239471	X97432	Clostridium vincentii	Clostridium vincentii	1177.0
+96	bacteria_96	1097.0	A0A4Y7RLU8, A0A4Y7RR93	True	A0A4Y7RLU8, A0A4Y7RR93	True	bacteria	UP000297597	AB154390	Pelotomaculum propionicicum	Pelotomaculum propionicicum	1175.0
+97	bacteria_97	1058.0	A0A2X3GUC1	True	A0A2X3GUC1	True	bacteria	UP000250257	UAWT01000001	Listeria fleischmannii subsp. fleischmannii	Listeria fleischmannii subsp fleischmannii	1170.0
+98	bacteria_98	512.0	P55994	True	P55994	True	bacteria	UP000000429	CP003904	Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacter pylori)	Helicobacter pylori ATCC 700392 	1169.0
+99	bacteria_99	686.0	A0A366XXX7	True	A0A366XXX7	True	bacteria	UP000253314	QOCW01000052	Bacillus taeanensis	Bacillus taeanensis	1168.0
+100	bacteria_100	1035.0	A0A3Q9J0M6, A0A3Q9IZC1	True	A0A3Q9J0M6, A0A3Q9IZC1	True	bacteria	UP000276888	CP031423	Microbacterium lemovicicum	Microbacterium lemovicicum	1164.0
+101	bacteria_101	816.0	A0A1X2CBY9	True	A0A1X2CBY9	True	bacteria	UP000193387	AP022573	Mycobacterium saskatchewanense	Mycobacterium saskatchewanense	1159.0
+102	bacteria_102	820.0	A0A6B8VA01	True	A0A6B8VA01	True	bacteria	UP000427071	CP046452	Corynebacterium kalinowskii	Corynebacterium kalinowskii	1158.0
+103	bacteria_103	956.0	A0A075R3K1	True	A0A075R3K1	True	bacteria	UP000005850	CP007806	Brevibacillus laterosporus LMG 15441	Brevibacillus laterosporus LMG 15441	1157.0
+104	bacteria_104	886.0	A0A402BM05	True	A0A402BM05	True	bacteria	UP000287175	BIFV01000027	Sporomusaceae bacterium	Sporomusaceae bacterium	1156.0
+105	bacteria_105	866.0	A0A239V5B3	True	A0A239V5B3	True	bacteria	UP000242637	L40615	Dermatophilus congolensis	Dermatophilus congolensis	1156.0
+106	bacteria_106	918.0	M7NKC6	True	M7NKC6	True	bacteria	UP000011910	AODQ01000227	Cesiribacter andamanensis AMV16	Cesiribacter andamanensis AMV16	1154.0
+107	bacteria_107	1137.0	A0A0L6ZE38	True	A0A0L6ZE38	True	bacteria	UP000037043	LHUR01000014	Clostridium homopropionicum DSM 5847	Clostridium homopropionicum DSM 5847	1150.0
+108	bacteria_108	974.0	A0A1I7PHI6, A0A1D8AY13	True	A0A1I7PHI6, A0A1D8AY13	True	bacteria	UP000095228	CP016094	Lacunisphaera limnophila	Lacunisphaera limnophila	1149.0
+109	bacteria_109	910.0	A0A2T0AW40	True	A0A2T0AW40	True	bacteria	UP000238415	PVXM01000026	Moorella humiferrea	Moorella humiferrea	1148.0
+110	bacteria_110	955.0	P0A3J0	True	P0A3J0	True	bacteria	UP000002196	KC429785	Lactococcus lactis subsp. lactis (strain IL1403) (Streptococcus lactis)	Lactococcus lactis subsp lactis IL1403 	1141.0
+111	bacteria_111	937.0	A0A174QBU1	True	A0A174QBU1	True	bacteria	UP000095409	X85101	Blautia obeum	Blautia obeum	1137.0
+112	bacteria_112	802.0	A0A5M3VTZ2, A0A5M3W2E2, A0A5M3W6H5, A0A5M3VUS6	True	A0A5M3VTZ2, A0A5M3W2E2, A0A5M3W6H5, A0A5M3VUS6	True	bacteria	UP000334990	U48991	Acrocarpospora corrugata	Acrocarpospora corrugata	1137.0
+113	bacteria_113	734.0	A0A7G1KUZ1	True	A0A7G1KUZ1	True	bacteria	UP000516173	AP023396	Nocardia wallacei	Nocardia wallacei	1137.0
+114	bacteria_114	1067.0	A0A5B1CKG5, A0A5B1CQ58, A0A5B1CIF1, A0A5B1CN22	True	A0A5B1CKG5, A0A5B1CQ58, A0A5B1CIF1, A0A5B1CN22	True	bacteria	UP000322699	VRLW01000001	Rubripirellula obstinata	Rubripirellula obstinata	1134.0
+115	bacteria_115	900.0	K1M4E2, K1KU37	True	K1M4E2, K1KU37	True	bacteria	UP000004478	AMGM01000182	Cecembia lonarensis LW9	Cecembia lonarensis LW9	1129.0
+116	bacteria_116	1007.0	A0A142Y6I9, A0A142XWK0, A0A142Y0Q4	True	A0A142Y6I9, A0A142XWK0, A0A142Y0Q4	True	bacteria	UP000076398	CP011272	Pirellula sp. SH-Sr6A	Pirellula sp SH-Sr6A	1128.0
+117	bacteria_117	914.0	A0A150HAY3	True	A0A150HAY3	True	bacteria	UP000075357	LRAD01000023	Microbacterium laevaniformans	Microbacterium laevaniformans	1128.0
+118	bacteria_118	912.0	A0A0S2I1I9	True	A0A0S2I1I9	True	bacteria	UP000064893	CP013118	Salinivirga cyanobacteriivorans	Salinivirga cyanobacteriivorans	1126.0
+119	bacteria_119	1009.0	A0A1Z3HIL8, A0A1Z3HSX1, A0A1Z3HTI7, A0A1Z3HFP1, A0A1Z3HSX0	True	A0A1Z3HIL8, A0A1Z3HSX1, A0A1Z3HTI7, A0A1Z3HFP1, A0A1Z3HSX0	True	bacteria	UP000191901	CP021983	Halomicronema hongdechloris C2206	Halomicronema hongdechloris C2206	1125.0
+120	bacteria_120	778.0	A0A1Q2HZ72, A0A1Q2HU93	True	A0A1Q2HZ72, A0A1Q2HU93	True	bacteria	UP000217209	CP019688	Corynebacterium glaucum	Corynebacterium glaucum	1125.0
+121	bacteria_121	710.0	B4RI21, B4RI90, B4RBK9	True	B4RI21, B4RI90, B4RBK9	True	bacteria	UP000001868	CP000747	Phenylobacterium zucineum (strain HLK1)	Phenylobacterium zucineum HLK1	1120.0
+122	bacteria_122	744.0	A0A1J1LJD9, A0A1J1LFQ8, A0A1J1LR52	True	A0A1J1LJD9, A0A1J1LFQ8, A0A1J1LR52	True	bacteria	UP000184315	CZDF01000132	Planktothrix tepida PCC 9214	Planktothrix tepida PCC 9214	1115.0
+123	bacteria_123	735.0	A0A348G3U4	True	A0A348G3U4	True	bacteria	UP000266934	AP018907	Blastochloris tepida	Blastochloris tepida	1113.0
+124	bacteria_124	702.0	A0A0S4KWA8	True	A0A0S4KWA8	True	bacteria	UP000066284	LN885086	Candidatus Nitrospira inopinata	Candidatus Nitrospira inopinata	1113.0
+125	bacteria_125	516.0	A0A2S4A0Z5	True	A0A2S4A0Z5	True	bacteria	UP000237061	JX949850	Arthrobacter glacialis	Arthrobacter glacialis	1106.0
+126	bacteria_126	939.0	A0A168G9E3, A0A166I6H7, A0A162GSH7, A0A162FZD5	True	A0A168G9E3, A0A166I6H7, A0A162GSH7, A0A162FZD5	True	bacteria	UP000076717	CP047186	Rathayibacter tanaceti	Rathayibacter tanaceti	1099.0
+127	bacteria_127	836.0	A0A448HE76, A0A3S4TAU1	True	A0A448HE76, A0A3S4TAU1	True	bacteria	UP000266895	X80411	Actinomyces howellii	Actinomyces howellii	1094.0
+128	bacteria_128	943.0	A0A110B1J2, A0A110B451	True	A0A110B1J2, A0A110B451	True	bacteria	UP000218263	AP017313	Mucilaginibacter gotjawali	Mucilaginibacter gotjawali	1090.0
+129	bacteria_129	781.0	A0A1B1Q3A1, A0A1B1Q1J2	True	A0A1B1Q3A1, A0A1B1Q1J2	True	bacteria	UP000092496	CP016432	Prosthecochloris sp. CIB 2401	Prosthecochloris sp CIB 2401	1090.0
+130	bacteria_130	883.0	A0A164BRY5, A0A162BJI0, A0A164CGL9	True	A0A164BRY5, A0A162BJI0, A0A164CGL9	True	bacteria	UP000076799	LVHU01000023	Synechococcus sp. MIT S9508	Synechococcus sp MIT S9508	1089.0
+131	bacteria_131	878.0	A0A1A7KH79	True	A0A1A7KH79	True	bacteria	UP000092708	LFEG01000122	Chryseobacterium sp. MOF25P	Chryseobacterium sp MOF25P	1087.0
+132	bacteria_132	709.0	A0A330L5A2, A0A330L760	True	A0A330L5A2, A0A330L760	True	bacteria	UP000248168	KF724505	Nitrospira lenta	Nitrospira lenta	1087.0
+133	bacteria_133	868.0	A0A136WDK1	True	A0A136WDK1	True	bacteria	UP000070539	LRVM01000024	Anaerotignum neopropionicum	Anaerotignum neopropionicum	1084.0
+134	bacteria_134	696.0	A0A3S0ZVY4, A0A433NCI8, A0A433NNB3, A0A3S1A615	True	A0A3S0ZVY4, A0A433NCI8, A0A433NNB3, A0A3S1A615	True	bacteria	UP000268857	RSCJ01000071	Chlorogloeopsis fritschii PCC 6912	Chlorogloeopsis fritschii PCC 6912	1084.0
+135	bacteria_135	628.0	I0AKW0	True	I0AKW0	True	bacteria	UP000007394	CP003418	Ignavibacterium album (strain DSM 19864 / JCM 16511 / NBRC 101810 / Mat9-16)	Ignavibacterium album DSM 19864 	1084.0
+136	bacteria_136	709.0	A5GX11, A5GTQ4, A5GV47	True	A5GX11, A5GTQ4, A5GV47	True	bacteria	UP000001115	CT978603	Synechococcus sp. (strain RCC307)	Synechococcus sp RCC307	1083.0
+137	bacteria_137	519.0	A0A367AWA2	True	A0A367AWA2	True	bacteria	UP000253175	QOHJ01000015	Blastococcus sp. TF02A-30	Blastococcus sp TF02A-30	1080.0
+138	bacteria_138	991.0	A0A143XHS4	True	A0A143XHS4	True	bacteria	UP000198774	FCNS01000041	Clostridiales bacterium CHKCI001	Clostridiales bacterium CHKCI001	1079.0
+139	bacteria_139	869.0	A0A0X7BBY1	True	A0A0X7BBY1	True	bacteria	UP000059935	LLWK01000013	Flavobacterium sp. TAB 87	Flavobacterium sp TAB 87	1078.0
+140	bacteria_140	563.0	A0A4Q1S7P1, A0A4Q1SEH1	True	A0A4Q1S7P1, A0A4Q1SEH1	True	bacteria	UP000290253	SDMK01000001	Acidipila dinghuensis	Acidipila dinghuensis	1072.0
+141	bacteria_141	760.0	A0A1G4G9P4	True	A0A1G4G9P4	True	bacteria	UP000178485	LT608328	Petrimonas mucosa	Petrimonas mucosa	1068.0
+142	bacteria_142	569.0	A0A6B9YVY3	True	A0A6B9YVY3	True	bacteria	UP000477884	CP048114	Edaphobacter sp. 12200R-103	Edaphobacter sp 12200R-103	1062.0
+143	bacteria_143	536.0	C1CZH9	True	C1CZH9	True	bacteria	UP000002208	CP001114	Deinococcus deserti (strain DSM 17065 / CIP 109153 / LMG 22923 / VCD115)	Deinococcus deserti DSM 17065 	1058.0
+144	bacteria_144	647.0	W6SEF4, W6SIL0, W6RYD2	True	W6SEF4, W6SIL0, W6RYD2	True	bacteria	UP000019426	HG917868	Clostridium bornimense	Clostridium bornimense	1053.0
+145	bacteria_145	536.0	A0A386PC75	True	A0A386PC75	True	bacteria	UP000280586	CP034358	Clostridium septicum	Clostridium septicum	1051.0
+146	bacteria_146	533.0	A0A4Y9Q2Z9	True	A0A4Y9Q2Z9	True	bacteria	UP000297781	MK239637	Blastococcus sp. CT_GayMR16	Blastococcus sp CT_GayMR16	1049.0
+147	bacteria_147	517.0	A0A5B7RHT0	True	A0A5B7RHT0	True	bacteria	UP000309647	CP040695	Nocardioides sp. S-1144	Nocardioides sp S-1144	1048.0
+148	bacteria_148	645.0	B0SRF1	True	B0SRF1	True	bacteria	UP000001847	CP000786	Leptospira biflexa serovar Patoc (strain Patoc 1 / ATCC 23582 / Paris)	Leptospira biflexa serovar Patoc Patoc 1 	1044.0
+149	bacteria_149	502.0	A0A4R9BFR3	True	A0A4R9BFR3	True	bacteria	UP000298313	SOHH01000009	Cryobacterium sp. Hh4	Cryobacterium sp Hh4	1042.0
+150	bacteria_150	657.0	A0A401Z9K3, A0A401Z902, A0A401ZSM7, A0A401ZB14	True	A0A401Z9K3, A0A401Z902, A0A401ZSM7, A0A401ZB14	True	bacteria	UP000287224	BIFQ01000001	Dictyobacter aurantiacus	Dictyobacter aurantiacus	1041.0
+151	bacteria_151	515.0	A0A2K3UX70	True	A0A2K3UX70	True	bacteria	UP000236379	PPPD01000001	Deinococcus koreensis	Deinococcus koreensis	1040.0
+152	bacteria_152	541.0	A0A7L5A3F9	True	A0A7L5A3F9	True	bacteria	UP000513480	CP042596	Granulicella sp. WH15	Granulicella sp WH15	1036.0
+153	bacteria_153	512.0	A0A6I3JFD2	True	A0A6I3JFD2	True	bacteria	UP000433406	CP053660	Nocardioides sp. zg-579	Nocardioides sp zg-579	1036.0
+154	bacteria_154	502.0	A0A6M1TD26	True	A0A6M1TD26	True	bacteria	UP000473278	JAALLT010000012	Balneolaceae bacterium YR4-1	Balneolaceae bacterium YR4-1	1033.0
+155	bacteria_155	500.0	A0A3N0DPV3	True	A0A3N0DPV3	True	bacteria	UP000277094	RJSG01000002	Marmoricola solisilvae	Marmoricola solisilvae	1029.0
+156	bacteria_156	502.0	A0A851GJW7	True	A0A851GJW7	True	bacteria	UP000557872	JACBAZ010000010	Oceaniferula marina	Oceaniferula marina	1026.0
+157	bacteria_157	719.0	A0A1W6LKQ7	True	A0A1W6LKQ7	True	bacteria	UP000193334	CP021023	Sedimentisphaera salicampi	Sedimentisphaera salicampi	1025.0
+158	bacteria_158	540.0	A0A540VFL0	True	A0A540VFL0	True	bacteria	UP000317371	VIGC01000061	Litorilinea aerophila	Litorilinea aerophila	1025.0
+159	bacteria_159	627.0	A0A7I8EUN8, A0A7I8EHZ5, A0A7I8EFK0, A0A7I8F3L9, A0A7I8EID2, A0A7I8EI31	True	A0A7I8EUN8, A0A7I8EHZ5, A0A7I8EFK0, A0A7I8F3L9, A0A7I8EID2, A0A7I8EI31	True	bacteria	UP000593783	AP024096	Ktedonobacteria bacterium brp13	Ktedonobacteria bacterium brp13	1017.0
+160	bacteria_160	765.0	A0A199XTD7	True	A0A199XTD7	True	bacteria	UP000093807	JMTM01000041	Flavobacterium succinicans	Flavobacterium succinicans	1015.0
+161	bacteria_161	496.0	A0A3P0X8J4	True	A0A3P0X8J4	True	bacteria	UP000279598	QWEV01000005	Acidipila sp. EB88	Acidipila sp EB88	1013.0
+162	bacteria_162	469.0	A0A2A2G6R8	True	A0A2A2G6R8	True	bacteria	UP000218831	NSKE01000019	Aliifodinibius sp. WN023	Aliifodinibius sp WN023	1013.0
+163	bacteria_163	502.0	A0A4R1BDI0	True	A0A4R1BDI0	True	bacteria	UP000295244	SKBU01000015	Rubrobacter taiwanensis	Rubrobacter taiwanensis	1009.0
+164	bacteria_164	646.0	A0A0C7P2P8	True	A0A0C7P2P8	True	bacteria	UP000032809	LN824141	Defluviitoga tunisiensis	Defluviitoga tunisiensis	1002.0
+165	bacteria_165	608.0	A0A401ZYS0, A0A401ZWR3	True	A0A401ZYS0, A0A401ZWR3	True	bacteria	UP000287352	BIFR01000001	Tengunoibacter tsumagoiensis	Tengunoibacter tsumagoiensis	1002.0
+166	bacteria_166	598.0	A0A1J0LNL4	True	A0A1J0LNL4	True	bacteria	UP000183895	CP016269	Flavobacteriaceae bacterium UJ101	Flavobacteriaceae bacterium UJ101	1000.0
+167	bacteria_167	482.0	A0A2T6D1T5	True	A0A2T6D1T5	True	bacteria	UP000244023	QAYX01000024	Opitutus sp. ER46	Opitutus sp ER46	990.0
+168	bacteria_168	378.0	Q8RH05	True	Q8RH05	True	bacteria	UP000002521	CP028101	Fusobacterium nucleatum subsp. nucleatum (strain ATCC 25586 / DSM 15643 / BCRC 10681 / CIP 101130 / JCM 8532 / KCTC 2640 / LMG 13131 / VPI 4355)	Fusobacterium nucleatum subsp nucleatum ATCC 25586 	987.0
+169	bacteria_169	621.0	A9BAD5, A9BDQ9	True	A9BAD5, A9BDQ9	True	bacteria	UP000000788	CP000878	Prochlorococcus marinus (strain MIT 9211)	Prochlorococcus marinus MIT 9211	984.0
+170	bacteria_170	569.0	D6YSD8	True	D6YSD8	True	bacteria	UP000001505	AF042496	Waddlia chondrophila (strain ATCC VR-1470 / WSU 86-1044)	Waddlia chondrophila ATCC VR-1470 	983.0
+171	bacteria_171	607.0	U5Q7V1	True	U5Q7V1	True	bacteria	UP000017642	CP006772	Bacteroidales bacterium CF	Bacteroidales bacterium CF	977.0
+172	bacteria_172	570.0	A0A4P7ZUJ2	True	A0A4P7ZUJ2	True	bacteria	UP000297640	CP039373	Synechococcus sp. CB0101	Synechococcus sp CB0101	976.0
+173	bacteria_173	547.0	A0A1Z4SB01, A0A1Z4SCH9, A0A1Z4SAM6	True	A0A1Z4SB01, A0A1Z4SCH9, A0A1Z4SAM6	True	bacteria	UP000218514	AP018288	Nostoc sp. NIES-4103	Nostoc sp NIES-4103	976.0
+174	bacteria_174	438.0	A0A2N0VI20	True	A0A2N0VI20	True	bacteria	UP000233398	PISP01000004	Rhodohalobacter barkolensis	Rhodohalobacter barkolensis	974.0
+175	bacteria_175	458.0	A0A6B2M0I0	True	A0A6B2M0I0	True	bacteria	UP000478417	JAAGNX010000002	Oceanipulchritudo coccoides	Oceanipulchritudo coccoides	970.0
+176	bacteria_176	527.0	A0A5J4KIE3, A0A5J4KJC7, A0A5J4KM82, A0A5J4KPI8	True	A0A5J4KIE3, A0A5J4KJC7, A0A5J4KM82, A0A5J4KPI8	True	bacteria	UP000326912	BKZW01000004	Dictyobacter vulcani	Dictyobacter vulcani	964.0
+177	bacteria_177	471.0	A0A290Q8W2	True	A0A290Q8W2	True	bacteria	UP000217265	CP023344	Nibricoccus aquaticus	Nibricoccus aquaticus	957.0
+178	bacteria_178	526.0	A0A1Z4LEF7, A0A1Z4L0I9, A0A1Z4L012	True	A0A1Z4LEF7, A0A1Z4L0I9, A0A1Z4L012	True	bacteria	UP000217515	AP018222	Nostoc linckia NIES-25	Nostoc linckia NIES-25	955.0
+179	bacteria_179	467.0	A0A4S3M0U4	True	A0A4S3M0U4	True	bacteria	UP000305939	SSMC01000007	Robertkochia marina	Robertkochia marina	952.0
+180	bacteria_180	490.0	K9VC49, K9VSA6, K9VI26	True	K9VC49, K9VSA6, K9VI26	True	bacteria	UP000010478	CP003614	Oscillatoria nigro-viridis PCC 7112	Oscillatoria nigro-viridis PCC 7112	924.0
+181	bacteria_181	405.0	A0A3M8FX31, A0A3M8FSI6	True	A0A3M8FX31, A0A3M8FSI6	True	bacteria	UP000270436	NVSP01000179	Phycisphaera sp.	Phycisphaera sp	924.0
+182	bacteria_182	481.0	A0A1R3TCJ7	True	A0A1R3TCJ7	True	bacteria	UP000187464	LT605205	Proteiniphilum saccharofermentans	Proteiniphilum saccharofermentans	918.0
+183	bacteria_183	553.0	A0A3G9K6A2	True	A0A3G9K6A2	True	bacteria	UP000273154	AP019367	Parolsenella catena	Parolsenella catena	917.0
+184	bacteria_184	453.0	E2ZB60	True	E2ZB60	True	bacteria	UP000003195	AECS01000020	Megasphaera micronuciformis F0359	Megasphaera micronuciformis F0359	916.0
+185	bacteria_185	435.0	U2QMT6	True	U2QMT6	True	bacteria	UP000016648	AWEY01000022	Prevotella baroniae F0067	Prevotella baroniae F0067	916.0
+186	bacteria_186	488.0	K9PD56, K9PFV5, K9PJM5	True	K9PD56, K9PFV5, K9PJM5	True	bacteria	UP000010390	CP003943	Calothrix sp. PCC 7507	Calothrix sp PCC 7507	913.0
+187	bacteria_187	456.0	C9RP34	True	C9RP34	True	bacteria	UP000000517	CP001792	Fibrobacter succinogenes (strain ATCC 19169 / S85)	Fibrobacter succinogenes ATCC 19169 	913.0
+188	bacteria_188	388.0	A0A2S3QL26	True	A0A2S3QL26	True	bacteria	UP000237396	PPDJ01000018	Halobacteriovorax sp. DA5	Halobacteriovorax sp DA5	905.0
+189	bacteria_189	492.0	K9R7X2, K9RJT0, K9R5V9	True	K9R7X2, K9RJT0, K9R5V9	True	bacteria	UP000010380	CP003549	Rivularia sp. PCC 7116	Rivularia sp PCC 7116	903.0
+190	bacteria_190	398.0	D7CWR3	True	D7CWR3	True	bacteria	UP000000379	CP002049	Truepera radiovictrix (strain DSM 17093 / CIP 108686 / LMG 22925 / RQ-24)	Truepera radiovictrix DSM 17093 	902.0
+191	bacteria_191	398.0	I7A360	True	I7A360	True	bacteria	UP000009011	CP003557	Melioribacter roseus (strain JCM 17771 / P3M-2)	Melioribacter roseus JCM 17771 	901.0
+192	bacteria_192	379.0	A0A3N0A945	True	A0A3N0A945	True	bacteria	UP000309454	SSTM01000012	Parvibacter caecicola	Parvibacter caecicola	893.0
+193	bacteria_193	411.0	A0A317ZP83	True	A0A317ZP83	True	bacteria	UP000247099	QHJQ01000007	Coraliomargarita sinensis	Coraliomargarita sinensis	892.0
+194	bacteria_194	417.0	A0A7C8EB30	True	A0A7C8EB30	True	bacteria	UP000592023	QQUA01000013	Planctomycetes bacterium	Planctomycetes bacterium	891.0
+195	bacteria_195	418.0	S7TXT1, S7VBF7	True	S7TXT1, S7VBF7	True	bacteria	UP000014977	CP015381	Desulfococcus multivorans DSM 2059	Desulfococcus multivorans DSM 2059	890.0
+196	bacteria_196	492.0	A0A7C8E5N5	True	A0A7C8E5N5	True	bacteria	UP000556317	BJHI01000001	Nitrospirae bacterium	Nitrospirae bacterium	885.0
+197	bacteria_197	383.0	E4U4Z2	True	E4U4Z2	True	bacteria	UP000008722	AJ430586	Oceanithermus profundus (strain DSM 14977 / NBRC 100410 / VKM B-2274 / 506)	Oceanithermus profundus DSM 14977 	885.0
+198	bacteria_198	416.0	A0A221ST29	True	A0A221ST29	True	bacteria	UP000259030	CP021081	Deinococcus ficus	Deinococcus ficus	881.0
+199	bacteria_199	402.0	A0A239L2M7	True	A0A239L2M7	True	bacteria	UP000198356	FZOU01000006	Granulicella rosea	Granulicella rosea	881.0
+200	bacteria_200	372.0	A0A1N7FB54	True	A0A1N7FB54	True	bacteria	UP000186307	FTMG01000033	Mucilaginibacter lappiensis	Mucilaginibacter lappiensis	880.0
+201	bacteria_201	404.0	E8V5X3	True	E8V5X3	True	bacteria	UP000006844	CP002467	Terriglobus saanensis (strain ATCC BAA-1853 / DSM 23119 / SP1PR4)	Terriglobus saanensis ATCC BAA-1853 	878.0
+202	bacteria_202	431.0	J9ZAB4	True	J9ZAB4	True	bacteria	UP000006177	CP002919	Leptospirillum ferriphilum (strain ML-04)	Leptospirillum ferriphilum ML-04	875.0
+203	bacteria_203	410.0	B4S6P7	True	B4S6P7	True	bacteria	UP000002725	CP001108	Prosthecochloris aestuarii (strain DSM 271 / SK 413)	Prosthecochloris aestuarii DSM 271 	874.0
+204	bacteria_204	401.0	I3ZKM3	True	I3ZKM3	True	bacteria	UP000006056	CP003379	Terriglobus roseus (strain DSM 18391 / NRRL B-41598 / KBS 63)	Terriglobus roseus DSM 18391 	872.0
+205	bacteria_205	358.0	A0A143BLC8	True	A0A143BLC8	True	bacteria	UP000076404	KF481682	Gemmatimonas phototrophica	Gemmatimonas phototrophica	872.0
+206	bacteria_206	493.0	A0A0C1K2J0	True	A0A0C1K2J0	True	bacteria	UP000031320	JRXI01000224	Neochlamydia sp. TUME1	Neochlamydia sp TUME1	871.0
+207	bacteria_207	435.0	A0A1P8F4Y0	True	A0A1P8F4Y0	True	bacteria	UP000185934	CP018258	Dehalogenimonas formicexedens	Dehalogenimonas formicexedens	855.0
+208	bacteria_208	392.0	A0A2V1IPN4	True	A0A2V1IPN4	True	bacteria	UP000244925	PUED01000303	Paramuribaculum intestinale	Paramuribaculum intestinale	855.0
+209	bacteria_209	381.0	A0A3P1SW44	True	A0A3P1SW44	True	bacteria	UP000267043	RQZH01000045	Prevotella sp. OH937_COT-195	Prevotella sp OH937_COT-195	854.0
+210	bacteria_210	359.0	A9NFN8	True	A9NFN8	True	bacteria	UP000008558	VKID01000006	Acholeplasma laidlawii (strain PG-8A)	Acholeplasma laidlawii PG-8A	852.0
+211	bacteria_211	365.0	A0A0Q0V6C9	True	A0A0Q0V6C9	True	bacteria	UP000050543	LLWP01000001	Pedobacter sp. Hv1	Pedobacter sp Hv1	850.0
+212	bacteria_212	373.0	A0A1N6D1Y2	True	A0A1N6D1Y2	True	bacteria	UP000185003	FSRA01000005	Chitinophaga niabensis	Chitinophaga niabensis	849.0
+213	bacteria_213	368.0	A0A1C2GJP2	True	A0A1C2GJP2	True	bacteria	UP000095113	MDJS01000007	Mucilaginibacter sp. PPCGB 2223	Mucilaginibacter sp PPCGB 2223	849.0
+214	bacteria_214	352.0	D1B9A5	True	D1B9A5	True	bacteria	UP000002030	CP001818	Thermanaerovibrio acidaminovorans (strain ATCC 49978 / DSM 6589 / Su883) (Selenomonas acidaminovorans)	Thermanaerovibrio acidaminovorans ATCC 49978 	848.0
+215	bacteria_215	352.0	F7YTE3	True	F7YTE3	True	bacteria	UP000006804	AB039769	Pseudothermotoga thermarum DSM 5069	Pseudothermotoga thermarum DSM 5069	848.0
+216	bacteria_216	350.0	I4BUP4	True	I4BUP4	True	bacteria	UP000006061	CP003198	Acetomicrobium mobile (strain ATCC BAA-54 / DSM 13181 / JCM 12221 / NGA) (Anaerobaculum mobile)	Acetomicrobium mobile ATCC BAA-54 	848.0
+217	bacteria_217	376.0	A0A0E3V746	True	A0A0E3V746	True	bacteria	UP000033054	CP010429	Spirosoma radiotolerans	Spirosoma radiotolerans	847.0
+218	bacteria_218	366.0	Q0YPZ3	True	Q0YPZ3	True	bacteria	UP000004162	AASE01000013	Chlorobium ferrooxidans DSM 13031	Chlorobium ferrooxidans DSM 13031	842.0
+219	bacteria_219	362.0	H2CHF4	True	H2CHF4	True	bacteria	UP000005737	JH597773	Leptonema illini DSM 21528	Leptonema illini DSM 21528	842.0
+220	bacteria_220	341.0	G7V6G6, G7V7R9	True	G7V6G6, G7V7R9	True	bacteria	UP000005868	CP003096	Thermovirga lienii (strain ATCC BAA-1197 / DSM 17291 / Cas60314)	Thermovirga lienii ATCC BAA-1197 	842.0
+221	bacteria_221	359.0	E4TSP3	True	E4TSP3	True	bacteria	UP000008720	M58789	Marivirga tractuosa (strain ATCC 23168 / DSM 4126 / NBRC 15989 / NCIMB 1408 / VKM B-1430 / H-43) (Microscilla tractuosa) (Flexibacter tractuosus)	Marivirga tractuosa ATCC 23168 	840.0
+222	bacteria_222	365.0	A3HYC8	True	A3HYC8	True	bacteria	UP000003919	AAXU02000001	Algoriphagus machipongonensis	Algoriphagus machipongonensis	838.0
+223	bacteria_223	302.0	A0A098R0T1	True	A0A098R0T1	True	bacteria	UP000029692	JNUP01000030	Spirochaeta lutea	Spirochaeta lutea	836.0
+224	bacteria_224	362.0	A0A2S9QNS4	True	A0A2S9QNS4	True	bacteria	UP000238650	MWZD01000014	Leucobacter massiliensis	Leucobacter massiliensis	834.0
+225	bacteria_225	480.0	A0A449BIJ8	True	A0A449BIJ8	True	bacteria	UP000290909	AY538167	Acholeplasma hippikon	Acholeplasma hippikon	832.0
+226	bacteria_226	343.0	I4BAJ1	True	I4BAJ1	True	bacteria	UP000006048	CP002959	Turneriella parva (strain ATCC BAA-1111 / DSM 21527 / NCTC 11395 / H) (Leptospira parva)	Turneriella parva ATCC BAA-1111 	826.0
+227	bacteria_227	366.0	A0A1M4VWT3	True	A0A1M4VWT3	True	bacteria	UP000184436	SSTN01000001	Bacteroides faecichinchillae	Bacteroides faecichinchillae	824.0
+228	bacteria_228	355.0	C7NDW1	True	C7NDW1	True	bacteria	UP000001910	L37788	Leptotrichia buccalis (strain ATCC 14201 / DSM 1135 / JCM 12969 / NCTC 10249 / C-1013-b)	Leptotrichia buccalis ATCC 14201 	815.0
+229	bacteria_229	332.0	A0A1N6W2B3	True	A0A1N6W2B3	True	bacteria	UP000186400	FTMS01000039	Alkalispirochaeta americana	Alkalispirochaeta americana	813.0
+230	bacteria_230	370.0	D3SLV2	True	D3SLV2	True	bacteria	UP000002043	AJ278895	Thermocrinis albus (strain DSM 14484 / JCM 11386 / HI 11/12)	Thermocrinis albus DSM 14484 	811.0
+231	bacteria_231	320.0	A0A1H3XPB0	True	A0A1H3XPB0	True	bacteria	UP000198820	FNQF01000023	Psychroflexus halocasei	Psychroflexus halocasei	799.0
+232	bacteria_232	320.0	H2J4W8	True	H2J4W8	True	bacteria	UP000007161	CP003257	Marinitoga piezophila (strain DSM 14283 / JCM 11233 / KA3)	Marinitoga piezophila DSM 14283 	791.0
+233	bacteria_233	316.0	A0A347ZNH5	True	A0A347ZNH5	True	bacteria	UP000256388	AP018437	Pelolinea submarina	Pelolinea submarina	791.0
+234	bacteria_234	325.0	A0A2P8EIP7	True	A0A2P8EIP7	True	bacteria	UP000240636	UGGW01000001	Fusobacterium naviforme	Fusobacterium naviforme	786.0
+235	bacteria_235	310.0	A0A1M6Y3R2	True	A0A1M6Y3R2	True	bacteria	UP000184030	FRBE01000046	Fibrobacter sp. UWEL	Fibrobacter sp UWEL	781.0
+236	bacteria_236	352.0	M1LJI1	True	M1LJI1	True	bacteria	UP000035661	CP011856	Spiroplasma eriocheiris	Spiroplasma eriocheiris	780.0
+237	bacteria_237	294.0	A0A1T4K8Y4	True	A0A1T4K8Y4	True	bacteria	UP000190395	FUXC01000032	Treponema berlinense	Treponema berlinense	767.0
+238	bacteria_238	309.0	A0A1M5EP49	True	A0A1M5EP49	True	bacteria	UP000184492	FQVZ01000026	Fibrobacter sp. UWB8	Fibrobacter sp UWB8	762.0
+239	bacteria_239	309.0	A0A1U7NPX3	True	A0A1U7NPX3	True	bacteria	UP000186705	MPKA01000044	Dubosiella newyorkensis	Dubosiella newyorkensis	757.0
+240	bacteria_240	341.0	A0A1B3SK03	True	A0A1B3SK03	True	bacteria	UP000094378	CP017015	Spiroplasma helicoides	Spiroplasma helicoides	752.0
+241	bacteria_241	350.0	A0A0K1W249	True	A0A0K1W249	True	bacteria	UP000067476	CP012357	Spiroplasma litorale	Spiroplasma litorale	749.0
+242	bacteria_242	358.0	A0A2K8KJ62	True	A0A2K8KJ62	True	bacteria	UP000231179	CP024870	Spiroplasma clarkii	Spiroplasma clarkii	748.0
+243	bacteria_243	306.0	O83246	True	O83246	True	bacteria	UP000000811	CP004010	Treponema pallidum (strain Nichols)	Treponema pallidum Nichols	728.0
+244	bacteria_244	307.0	D8K372	True	D8K372	True	bacteria	UP000002349	CP002084	Dehalogenimonas lykanthroporepellens (strain ATCC BAA-1523 / JCM 15061 / BL-DC-9)	Dehalogenimonas lykanthroporepellens ATCC BAA-1523 	724.0
+245	bacteria_245	273.0	Q7NAU6	True	Q7NAU6	True	bacteria	UP000001418	CP001872	Mycoplasma gallisepticum (strain R(low / passage 15 / clone 2)) (Mycoplasmoides gallisepticum)	Mycoplasma gallisepticum R	703.0
+246	bacteria_246	251.0	P75344	True	P75344	True	bacteria	UP000000808	AF132741	Mycoplasma pneumoniae (strain ATCC 29342 / M129) (Mycoplasmoides pneumoniae)	Mycoplasma pneumoniae ATCC 29342 	703.0
+247	bacteria_247	307.0	A0A2K8NRL0	True	A0A2K8NRL0	True	bacteria	UP000232222	CP024962	Entomoplasma freundtii	Entomoplasma freundtii	701.0
+248	bacteria_248	269.0	Q6KIH7	True	Q6KIH7	True	bacteria	UP000009072	AE017308	Mycoplasma mobile (strain ATCC 43663 / 163K / NCTC 11711) (Mesomycoplasma mobile)	Mycoplasma mobile ATCC 43663 	651.0
+249	bacteria_249	105.0	A0A2W4K5V1	True	A0A2W4K5V1	True	bacteria	UP000249337	CP042461	Candidatus Gracilibacteria bacterium	Candidatus Gracilibacteria bacterium	425.0
+250	archaea_0	843.0	Q9HRY2	True	Q9HRY2	True	archaea	UP000000554	BK010829	Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1) (Halobacterium halobium)	Halobacterium salinarum ATCC 700922 	1257.0
+251	archaea_1	692.0	A0A0U5CX21	True	A0A0U5CX21	True	archaea	UP000066737	LN831302	Halobacterium hubeiense	Halobacterium hubeiense	964.0
+252	archaea_2	709.0	A0A343TIY0	True	A0A343TIY0	True	archaea	UP000263012	CP025066	Halalkaliarchaeum desulfuricum	Halalkaliarchaeum desulfuricum	943.0
+253	archaea_3	761.0	D3SYP7	True	D3SYP7	True	archaea	UP000001879	CP001932	Natrialba magadii (strain ATCC 43099 / DSM 3394 / CCM 3739 / CIP 104546 / IAM 13178 / JCM 8861 / NBRC 102185 / NCIMB 2190 / MS3) (Natronobacterium magadii)	Natrialba magadii ATCC 43099 	936.0
+254	archaea_4	562.0	A0A1D3L598	True	A0A1D3L598	True	archaea	UP000094707	LT607756	Methanobacterium congolense	Methanobacterium congolense	878.0
+255	archaea_5	580.0	Q0W874	True	Q0W874	True	archaea	UP000000663	AM114193	Methanocella arvoryzae (strain DSM 22066 / NBRC 105507 / MRE50)	Methanocella arvoryzae DSM 22066 	877.0
+256	archaea_6	531.0	A0A0F7PAT4	True	A0A0F7PAT4	True	archaea	UP000069906	CP008874	Halanaeroarchaeum sulfurireducens	Halanaeroarchaeum sulfurireducens	871.0
+257	archaea_7	460.0	U6ECR4	True	U6ECR4	True	archaea	UP000017867	HG425166	Methanobacterium sp. MB1	Methanobacterium sp MB1	856.0
+258	archaea_8	416.0	A0A7D5GR72	True	A0A7D5GR72	True	archaea	UP000509241	CP058601	Haloterrigena sp. YPL8	Haloterrigena sp YPL8	853.0
+259	archaea_9	492.0	R9SNA5	True	R9SNA5	True	archaea	UP000014066	AJ550156	Methanobrevibacter sp. AbM4	Methanobrevibacter sp AbM4	844.0
+260	archaea_10	530.0	A0A165Z4T7	True	A0A165Z4T7	True	archaea	UP000077066	LWMT01000072	Methanobrevibacter filiformis	Methanobrevibacter filiformis	832.0
+261	archaea_11	413.0	A0A7D5E117	True	A0A7D5E117	True	archaea	UP000267112	RIZB01000002	Halarchaeum sp. CBA1220	Halarchaeum sp CBA1220	824.0
+262	archaea_12	389.0	A0A3P3RKU4, A0A3P3RDH1	True	A0A3P3RKU4, A0A3P3RDH1	True	archaea	UP000282322	AB663390	Halomarina oriensis	Halomarina oriensis	824.0
+263	archaea_13	380.0	A0A518SDJ1	True	A0A518SDJ1	True	archaea	UP000320004	CP042241	Salarchaeum sp. JOR-1	Salarchaeum sp JOR-1	820.0
+264	archaea_14	386.0	A0A4D6HF85	True	A0A4D6HF85	True	archaea	UP000296706	KJ184543	Halapricum salinum	Halapricum salinum	810.0
+265	archaea_15	384.0	A0A1H1AIG4	True	A0A1H1AIG4	True	archaea	UP000199289	JX518988	Halopelagius longus	Halopelagius longus	809.0
+266	archaea_16	376.0	A0A1H5UAU0	True	A0A1H5UAU0	True	archaea	UP000236740	GU208828	Halobellus limi	Halobellus limi	793.0
+267	archaea_17	243.0	A9A135	True	A9A135	True	archaea	UP000000792	CP000866	Nitrosopumilus maritimus (strain SCM1)	Nitrosopumilus maritimus SCM1	793.0
+268	archaea_18	376.0	A0A7D4Y393	True	A0A7D4Y393	True	archaea	UP000191169	MWUK01000003	Halolamina sp. CBA1230	Halolamina sp CBA1230	790.0
+269	archaea_19	375.0	A0A554N9R5	True	A0A554N9R5	True	archaea	UP000319894	MH424600	Haloglomus irregulare	Haloglomus irregulare	786.0
+270	archaea_20	358.0	A0A830FCS0	True	A0A830FCS0	True	archaea	UP000607197	AB844667	Halocalculus aciditolerans	Halocalculus aciditolerans	780.0
+271	archaea_21	367.0	A0A483CP84, A0A483CQ50	True	A0A483CP84, A0A483CQ50	True	archaea	UP000292580	JABXWR010000001	Methanofollis fontis	Methanofollis fontis	777.0
+272	archaea_22	446.0	D1Z069	True	D1Z069	True	archaea	UP000001882	AP011532	Methanocella paludicola (strain DSM 17711 / JCM 13418 / NBRC 101707 / SANAE)	Methanocella paludicola DSM 17711 	769.0
+273	archaea_23	427.0	A0A366M9F8	True	A0A366M9F8	True	archaea	UP000253099	NIZT01000063	Methanobrevibacter sp. NOE	Methanobrevibacter sp NOE	766.0
+274	archaea_24	429.0	O27351	True	O27351	True	archaea	UP000005223	AE000666	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H) (Methanobacterium thermoautotrophicum)	Methanothermobacter thermautotrophicus ATCC 29096 	761.0
+275	archaea_25	337.0	M0AVB6	True	M0AVB6	True	archaea	UP000011554	D14123	Natrialba asiatica (strain ATCC 700177 / DSM 12278 / JCM 9576 / FERM P-10747 / NBRC 102637 / 172P1)	Natrialba asiatica ATCC 700177 	759.0
+276	archaea_26	351.0	M0LHN4	True	M0LHN4	True	archaea	UP000011555	CP019285	Halobiforma lacisalsi AJ5	Halobiforma lacisalsi AJ5	757.0
+277	archaea_27	345.0	L9ZII5, L9ZIU8	True	L9ZII5, L9ZIU8	True	archaea	UP000011511	AB663460	Natrinema altunense JCM 12890	Natrinema altunense JCM 12890	754.0
+278	archaea_28	326.0	C7P0F9	True	C7P0F9	True	archaea	UP000001746	EF645690	Halomicrobium mukohataei (strain ATCC 700874 / DSM 12286 / JCM 9738 / NCIMB 13541) (Haloarcula mukohataei)	Halomicrobium mukohataei ATCC 700874 	744.0
+279	archaea_29	340.0	A0A1G9W829	True	A0A1G9W829	True	archaea	UP000199451	AB663387	Halogranum gelatinilyticum	Halogranum gelatinilyticum	737.0
+280	archaea_30	351.0	W9DPQ3	True	W9DPQ3	True	archaea	UP000019483	AZAJ01000001	Methanolobus tindarius DSM 2278	Methanolobus tindarius DSM 2278	734.0
+281	archaea_31	328.0	A0A1H3F2H7	True	A0A1H3F2H7	True	archaea	UP000199170	AB663365	Halobellus clavatus	Halobellus clavatus	729.0
+282	archaea_32	342.0	L0JMZ7	True	L0JMZ7	True	archaea	UP000010843	AB663464	Natrinema pellirubrum (strain DSM 15624 / CIP 106293 / JCM 10476 / NCIMB 786 / 157)	Natrinema pellirubrum DSM 15624 	727.0
+283	archaea_33	327.0	A0A1H6UDN5	True	A0A1H6UDN5	True	archaea	UP000198888	CP024845	Halohasta litchfieldiae	Halohasta litchfieldiae	726.0
+284	archaea_34	335.0	A0A1I0MHQ9	True	A0A1I0MHQ9	True	archaea	UP000183275	JX014296	Halopiger salifodinae	Halopiger salifodinae	723.0
+285	archaea_35	338.0	L0K2B0	True	L0K2B0	True	archaea	UP000010878	CP003929	Natronococcus occultus SP4	Natronococcus occultus SP4	722.0
+286	archaea_36	312.0	A7I7L4, A7I8R2	True	A7I7L4, A7I8R2	True	archaea	UP000002408	CP000780	Methanoregula boonei (strain DSM 21154 / JCM 14090 / 6A8)	Methanoregula boonei DSM 21154 	721.0
+287	archaea_37	337.0	A0A1Q1FG99	True	A0A1Q1FG99	True	archaea	UP000187924	CP019067	Halorientalis sp. IM1011	Halorientalis sp IM1011	720.0
+288	archaea_38	326.0	A0A1N7DUF4	True	A0A1N7DUF4	True	archaea	UP000185687	AB663442	Haloterrigena daqingensis	Haloterrigena daqingensis	720.0
+289	archaea_39	329.0	A0A1I6LIB3	True	A0A1I6LIB3	True	archaea	UP000199062	HM063952	Halomicrobium zhouii	Halomicrobium zhouii	719.0
+290	archaea_40	338.0	W0JMP0	True	W0JMP0	True	archaea	UP000019024	CP007055	Halostagnicola larsenii XH-48	Halostagnicola larsenii XH-48	718.0
+291	archaea_41	325.0	A0A285NTL4	True	A0A285NTL4	True	archaea	UP000219453	OBEJ01000011	Natronoarchaeum philippinense	Natronoarchaeum philippinense	715.0
+292	archaea_42	316.0	A0A1M5RGJ2	True	A0A1M5RGJ2	True	archaea	UP000184357	L37444	Halobaculum gomorrense	Halobaculum gomorrense	715.0
+293	archaea_43	332.0	F8D5H5	True	F8D5H5	True	archaea	UP000006794	AM268114	Halopiger xanaduensis (strain DSM 18323 / JCM 14033 / SH-6)	Halopiger xanaduensis DSM 18323 	714.0
+294	archaea_44	393.0	A0A0A7LGA9, A0A0A7LE00, A0A0A7LHA4	True	A0A0A7LGA9, A0A0A7LE00, A0A0A7LHA4	True	archaea	UP000030787	CP010070	Candidatus Methanoplasma termitum	Candidatus Methanoplasma termitum	710.0
+295	archaea_45	340.0	L0KYV9	True	L0KYV9	True	archaea	UP000010866	CP003362	Methanomethylovorans hollandica (strain DSM 15978 / NBRC 107637 / DMS1)	Methanomethylovorans hollandica DSM 15978 	709.0
+296	archaea_46	329.0	W0K1D1	True	W0K1D1	True	archaea	UP000004595	CP007060	Halobacterium sp. DL1	Halobacterium sp DL1	709.0
+297	archaea_47	328.0	A0A1I0NQ90	True	A0A1I0NQ90	True	archaea	UP000198518	AB663359	Halobacterium jilantaiense	Halobacterium jilantaiense	709.0
+298	archaea_48	318.0	A0A498H2H3	True	A0A498H2H3	True	archaea	UP000290932	LHQS01000005	Methanoculleus taiwanensis	Methanoculleus taiwanensis	708.0
+299	archaea_49	319.0	A0A238WZ15	True	A0A238WZ15	True	archaea	UP000198397	D87972	Halorubrum vacuolatum (Natronobacterium vacuolatum)	Halorubrum vacuolatum Natronobacterium vacuolatum	707.0
+300	archaea_50	307.0	A0A256ICY3	True	A0A256ICY3	True	archaea	UP000216308	NHPJ01000020	Halorubrum halodurans	Halorubrum halodurans	706.0
+301	archaea_51	313.0	A0A1H6HYD5	True	A0A1H6HYD5	True	archaea	UP000199215	FNWU01000002	Halopenitus malekzadehii	Halopenitus malekzadehii	705.0
+302	archaea_52	303.0	G2MH32	True	G2MH32	True	archaea	UP000010096	CP002988	halophilic archaeon DL31	Halophilic archaeon DL31	700.0
+303	archaea_53	304.0	M0M7N5	True	M0M7N5	True	archaea	UP000011568	D11106	Halococcus morrhuae DSM 1307	Halococcus morrhuae DSM 1307	695.0
+304	archaea_54	297.0	U3AAK7	True	U3AAK7	True	archaea	UP000016986	BATA01000133	Halarchaeum acidiphilum MH1-52-1	Halarchaeum acidiphilum MH1-52-1	684.0
+305	archaea_55	320.0	M0MFR4	True	M0MFR4	True	archaea	UP000011669	AB004876	Halococcus saccharolyticus DSM 5350	Halococcus saccharolyticus DSM 5350	683.0
+306	archaea_56	285.0	A0A830G675	True	A0A830G675	True	archaea	UP000632195	BMNY01000001	Thermogymnomonas acidicola	Thermogymnomonas acidicola	676.0
+307	archaea_57	301.0	A0A2Z4L9V6	True	A0A2Z4L9V6	True	archaea	UP000249370	CP014213	Methanosphaera sp. BMS	Methanosphaera sp BMS	625.0
+308	archaea_58	253.0	Q6L0S7	True	Q6L0S7	True	archaea	UP000000438	AE017261	Picrophilus torridus (strain ATCC 700027 / DSM 9790 / JCM 10055 / NBRC 100828)	Picrophilus torridus ATCC 700027 	624.0
+309	archaea_59	247.0	M9SF59	True	M9SF59	True	archaea	UP000012672	CP004049	Methanomethylophilus alvus (strain Mx1201)	Methanomethylophilus alvus Mx1201	607.0
+310	archaea_60	227.0	A0A0Q0RLJ2	True	A0A0Q0RLJ2	True	archaea	UP000050301	LKBH01000298	Acidiplasma cupricumulans	Acidiplasma cupricumulans	605.0
+311	archaea_61	225.0	M4YR01	True	M4YR01	True	archaea	UP000012076	CP002916	Thermoplasmatales archaeon (strain BRNA1)	Thermoplasmatales archaeon BRNA1	577.0

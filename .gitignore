@@ -1,0 +1,16 @@
+*.pyc
+/eukaryotes/*.pyc
+/prokaryotes/*.pyc
+/main_analysis/*.pyc
+/main_analysis/draft
+
+/eukaryotes/tsv
+/eukaryotes/data
+
+/prokaryotes/tsv
+/prokaryotes/data
+
+
+main_figures
+other_files
+files_for_hypatia
