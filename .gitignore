@@ -10,7 +10,7 @@
 /prokaryotes/tsv
 /prokaryotes/data
 
-/main_analysis/31*
+/main_analysis/31.run_bim_iteratively.py
 
 main_figures
 other_files
