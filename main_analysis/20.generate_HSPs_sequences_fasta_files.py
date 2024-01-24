@@ -38,11 +38,11 @@ if __name__ == '__main__':
     '''
     DESCRIPTION:
         
-    Copy and paste the fasta files that contain the HSP sequences from the
+    This script copies the fasta files that contain the HSP sequences from the
     'data' repositories of eukaryotes & prokaryotes.
     
     Output: The HSPs_analysis folder which contains two main subfolders, one 
-    for HSP40s and one for HSP70s.
+    for HSP40s and another one for HSP70s.
     '''
     
     if not os.path.exists('./HSPs_analysis/hsp40/sequences/'):

@@ -14,8 +14,8 @@ if __name__ == '__main__':
     This scripts calls the 'clustalo' program to run the analysis and creates a 
     distance matrix file for the rRNA sequences ('final_distance_matrix.tsv').
     
-    The final output as well intermediate files are stored in the new 'rRNA_analysis'
-    directory.
+    The final output, as well intermediate files, are stored in the new 
+    'rRNA_analysis' directory.
     '''
     
     df = pandas.read_csv('./files/species.tsv', sep='\t')

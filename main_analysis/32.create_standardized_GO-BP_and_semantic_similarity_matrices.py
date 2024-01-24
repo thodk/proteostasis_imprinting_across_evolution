@@ -14,6 +14,26 @@ from core_semantics import Semantics
 
 if __name__ == '__main__':
     
+    
+    '''
+    The following workflow performs three separate tasks:
+    
+    1. Construction of the standardized GO-BP which will be used for the
+    downstream semantic analysis. The semantic features (IC and Semantic Value) 
+    of GO terms are calculated to create the respective distributions. Terms 
+    with values out of the selected distribution thresholds (high and low values) 
+    are substituted with the appropriate ancestral terms and the created mapping 
+    is stored in output file GO_P_terms_substitutions.json. The terms which have
+    not been substituted constitute the standardized version of GO.
+    
+    2. Store the GO terms which are included in the standardized graph, as well
+    as their semantic measures, in the final_terms.csv file.
+    
+    3. Calculation of the semantic similarities of terms in the standardized 
+    GO graph, based on three different measures. The final outputs are four 
+    similarity matrices (one for each measure and one for the average similarities).
+    '''
+    
     main_dir = './PN_analysis/standardized_graph/'
     if not os.path.exists(main_dir):
         os.makedirs(main_dir)
@@ -42,11 +62,12 @@ if __name__ == '__main__':
                                     'definition'])
     semantics_df.to_csv(main_dir+'semantics.tsv', sep='\t')
 
+    # Define the IC and Semantic Value thresholds
     high_ic = round(numpy.percentile(semantics_df.information_content, 20),3)
     low_ic = 0.3
     high_sem_value = round(numpy.percentile(semantics_df.semantic_value,20),3)
-
     low_sem_value = 0
+    
     substitutions_dict = {}
     for term in G.entries.keys():
         new_terms = semantics.get_ancestors_from_bounded_graph(term, low_ic=low_ic,
@@ -65,13 +86,13 @@ if __name__ == '__main__':
             substitutions_dict[term] = [term]
     final_terms = list(set([i for j in substitutions_dict.values() for i in j]))
 
-
+    # Save the mapping
     with open(main_dir+'GO_P_terms_substitutions.json', 'w') as f:
         json.dump(substitutions_dict, f)
 
+    # Save the terms which are included in the standardized GO
     stand_G = remove_unannotated(G, list(set(G.entries.keys()).difference(final_terms)))
-    semantics = Semantics(stand_G)
-    
+    semantics = Semantics(stand_G)    
     final_terms_data = []
     for term in final_terms:
         final_terms_data.append([term, stand_G.get_entry_obj(term).definition,
@@ -85,6 +106,7 @@ if __name__ == '__main__':
     tmp_df.to_csv(main_dir+'final_terms.csv')
     terms = list(sorted(final_terms))
     
+    # Calculate the semantic similarities of terms in the standardized GO graph
     resnik_mica_matrix = semantics.get_pairwise_similarity(terms, 'resnik', 
                                                            ancestors_set='mica')
     resnik_xgrasm_matrix = semantics.get_pairwise_similarity(terms, 'resnik', 

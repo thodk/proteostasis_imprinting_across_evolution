@@ -15,6 +15,14 @@ import core_classes
 
 if __name__ == '__main__':
     
+    '''
+    DESCRIPTION:
+
+    This script generates the inputs gene sets for the pathway analysis of the
+    20 conserved biological processes. The whole workflow is described in the 
+    section 2.6.1 of the manuscript.
+    '''
+    
     def get_pvalue(size):
         gene_set = numpy.random.choice(ref_gene_set, size=size, replace=False)
         sample_mapping = {}

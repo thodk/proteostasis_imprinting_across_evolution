@@ -8,7 +8,6 @@ import numpy
 import json
 import operator
 sys.path.append('../')
-sys.path.append('/home/thodoris/Projects/proteostasis/proteostasis_imprinting_across_evolution/')
 import core_classes
 from core_functions import remove_unannotated
 from core_functions import construct_graph_from_mongo
@@ -41,7 +40,19 @@ def worker(list_of_terms, key):
 
 if __name__ == '__main__':
 
-    #os.chdir('/home/thodoris/Projects/proteostasis/proteostasis_imprinting_across_evolution/main_analysis/')
+    '''
+    DESCRIPTION:
+
+    The components matrix from the non-negative matrix factorization is used
+    to find the common and the differential part of proteostasis, between
+    the three kingdoms. The respective GO term sets are used to calculate
+    the semantic similarities of species in these two proteostasis network 
+    profiles.
+    
+    Outputs: the calculated distance matrices for the common and differential
+    proteostasis profiles.
+    '''
+
     # Load the GO BP graph from MongoDB
     G = construct_graph_from_mongo('GO_P', mongo_database='background')
     
@@ -130,7 +141,6 @@ if __name__ == '__main__':
     # STEP 4
     # Create a distance matrix for the species, based on the sematnic similarities
     # of common and differential components
-    
     df = pandas.read_csv('./files/species.tsv', sep='\t', index_col=0)
     species_names_mapping = dict(zip(df.abbreviation, df.species_name))
     

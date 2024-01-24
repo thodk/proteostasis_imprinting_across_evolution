@@ -17,7 +17,7 @@ if __name__ == '__main__':
 
     This script creates the second part of the 3rd figure of the manuscript. 
     It depicts the species of each kingdom on a 2-dimensional space, based on
-    their semantic distances given 1) the whole PN profiles, 2) the conserved
+    their semantic distances given 1) the whole PN profiles, 2) the common
     PN profile and 3) the differential PN profile.
     '''
     

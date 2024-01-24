@@ -22,9 +22,9 @@ if __name__ == '__main__':
 
     This script is used to illustrate the rRNA distance matrix as a heatmap and
     calculate the clustergram of species, based on the Ward's minimum variance 
-    method. The 'heatmap' module is used for this process (called from the upper 
-    directory). This is a custom module which is based on 'seaborn.clustergram'
-    and configures appropriately the plot for these specific data.
+    method. The 'heatmap.py' script is used for this process (called from the upper 
+    directory). It contains a workflow which is based on 'seaborn.clustergram'
+    and configures appropriately the data to create the plot.
     '''
     
     # Load the distance matrix

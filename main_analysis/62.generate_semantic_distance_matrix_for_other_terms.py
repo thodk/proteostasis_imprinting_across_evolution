@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 import sys
 import os
-os.chdir("/home/thodoris/Projects/proteostasis/proteostasis_imprinting_across_evolution/main_analysis")
 import pandas
 import numpy
 import collections
@@ -17,8 +16,12 @@ import core_classes
 if __name__ == '__main__':
 
     '''
-    DESCRIPTION: Calculate the semantic similarity distances based on the 
-    standardized GO graph.
+    DESCRIPTION:
+        
+    Calculation of the semantic distances of species, based on of their semantic 
+    profiles for the 20 conserved biological processes. The standardized GO graph
+    is used for this task, similarly to the calculation of distances between
+    the PN-related semantic profiles.
     '''    
 
     main_dir = './other_terms_analysis/'
@@ -35,12 +38,7 @@ if __name__ == '__main__':
     G = remove_unannotated(G, to_remove_terms)
     semantics = core_classes.Semantics(G)
     
-    for other_term in other_terms[13:]:
-        #if other_term == 'ATP_metabolic_process':
-            #continue
-        #if os.path.exists(output_dir+other_term+'/'):
-            #continue
-        
+    for other_term in other_terms:
         mapping = {}
         bim_outputs = os.listdir(main_dir+'pathway_analysis_outputs/'+other_term+'/')
         for f in bim_outputs:

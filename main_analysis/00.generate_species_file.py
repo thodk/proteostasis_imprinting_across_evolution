@@ -11,9 +11,9 @@ if __name__ == '__main__':
     '''
     DESCRIPTION:
 
-    This script concatenate the 'inal_species_set_for_analysis.tsv' files
+    This script gets the 'final_species_set_for_analysis.tsv' files
     from eukaryotes and prokaryotes directories and create a new one,
-    which record all the necessary informatio about the species that will
+    which record all the necessary information about the species that will
     be used for the analysis.
     
     Output: 'species.tsv' file in 'files' directory.

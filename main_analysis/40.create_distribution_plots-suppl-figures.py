@@ -163,13 +163,13 @@ if __name__ == '__main__':
     '''
     DESCRIPTION:
     
-    This script creates the density plots for inter- and intra-distances of
-    taxonomic classes, for the four different phylogenetic criteria. Given
-    the calculated values from the distance matrices, a KDE function is 
-    constructed. Then 1000 values from 0 to 1 (X values) are used to calculate 
-    the densities (Y values). A figure with two subplots is created for each 
+    This script creates the density plots for the inter- and intra-distances of
+    taxonomic classes, for the four phylogenetic criteria. Given the calculated 
+    values from the distance matrices, a KDE function is constructed. Then 
+    1000 values from 0 to 1 (X values) are used to calculate the densities 
+    (Y values). A figure with two subplots is created for each phylogenetic
     criterion. The first one depicts the KDEs of intra-distances and the second 
-    one those of inter-distances for the three different taxonomic kingdoms.
+    one those of inter-distances for the three taxonomic kingdoms.
     '''
 
     species_df = pandas.read_csv('./files/species.tsv', sep='\t', index_col=0)

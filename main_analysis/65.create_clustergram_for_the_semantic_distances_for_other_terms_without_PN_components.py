@@ -25,9 +25,9 @@ if __name__ == '__main__':
     and calculate the clustergram of species, based on the Ward's minimum variance 
     method. The illustrated distances matrices belong to the semantic profiles of 
     the 20 conserved mechanisms, without the inclusion of PN components. 
-    The 'heatmap' module is used for this process (called from the upper 
-    directory). This is a custom module which is based on 'seaborn.clustergram'
-    and configures appropriately the plot for these specific data.
+    The 'heatmap.py' script is used for this process (called from the upper 
+    directory). It contains a workflow which is based on seaborn.clustergram' 
+    and configures appropriately the data to create the plot.
     '''
     
     main_dir = './other_terms_analysis/'

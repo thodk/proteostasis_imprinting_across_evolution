@@ -42,7 +42,7 @@ if __name__ == '__main__':
     DESCRIPTION:
         
     Many species have plenty of hsp40 and hsp70 sequences. However, a single 
-    consensus sequence should be created for each species. As a first step to
+    consensus sequence should be created for each species. In order to
     reduce the redundancy of these sequences, this script calls the 'CDHIT'
     software to cluster all the HSP of the same family for each species, with 
     similarity threshold at 95%.

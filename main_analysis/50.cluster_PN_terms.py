@@ -9,13 +9,20 @@ import json
 import operator
 import collections
 sys.path.append('../')
-sys.path.append('/home/thodoris/Projects/proteostasis/proteostasis_imprinting_across_evolution/')
 import core_classes
 from core_functions import remove_unannotated
 from core_functions import construct_graph_from_mongo
 
-os.chdir('/home/thodoris/Projects/proteostasis/proteostasis_imprinting_across_evolution/main_analysis')
+
+
 if __name__ == '__main__':
+
+    '''
+    DESCRIPTION
+
+    This script performes the clustering of the derived PN semantic profiles as
+    it is described in the section 2.5.1 of the manuscript.
+    '''    
 
     # Load the GO BP graph from MongoDB
     G = construct_graph_from_mongo('GO_P', mongo_database='background')

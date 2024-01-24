@@ -31,10 +31,9 @@ if __name__ == '__main__':
     '''
     DESCRIPTION:
 
-    This script creates the 4rth plot of tha manuscript, in order to
-    compare the silhouette and homogeneity scores among the 20 conserved mechanisms,
-    PN and ribosomal sequences, when they are used as criteria for the separation
-    of the 3 taxonomic kingdoms.
+    This script creates the homogeneity score plots for the four phylogenetic 
+    criteria, depicting their efficiency to separate correctly the sub-taxonomies
+    of each kingdom.
     '''
 
     categories_dict = {

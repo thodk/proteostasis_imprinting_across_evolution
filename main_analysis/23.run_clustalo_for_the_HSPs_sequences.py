@@ -52,7 +52,7 @@ if __name__ == '__main__':
     distance matrix file for the HSP sequences of the same family (hsp40 and
     hsp70).
     
-    The final outputs ('final_distance_matrix.tsv') as well intermediate files 
+    The final outputs ('final_distance_matrix.tsv'), as well intermediate files, 
     are stored in the respective subfolders in 'HSPs_analysis'.
     '''
     
