@@ -13,7 +13,7 @@ if __name__ == '__main__':
     DESCRIPTION:
         
     This script copies the fasta files that contain the rRNA sequences from the
-    'data' repositories of eukaryotes & prokaryotes
+    'data' repositories of eukaryotes & prokaryotes.
     
     Output: The rRNA_analysis folder which contains another one ('sequences')
     where 409 (the size of species set) fasta files are stored.

@@ -17,8 +17,13 @@ import core_classes
 if __name__ == '__main__':
 
     '''
-    DESCRIPTION: Calculate the semantic similarity distances based on the 
-    standardized GO graph.
+    DESCRIPTION:
+    
+    Calculation of semantic distances of species for the 20 conserved biological
+    mechanismsms. In this processes the PN-related GO terms are excluded from
+    the semantic profiles. The standardized GO graph is used for this task, 
+    similarly to the calculation of distances between the PN-related semantic 
+    profiles.
     '''    
 
     main_dir = './other_terms_analysis/'
