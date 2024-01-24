@@ -53,6 +53,85 @@ class Pool(object):
                       reverse=True)
 
 
+
+class EnrichmentAnalysis(object):
+ 
+   
+    def __init__(self):
+        self.background_mapping = {} # {gene_id:terms_list}, based on database
+        self.background_pool = Pool() # check the Pool class
+        self.sample_mapping = {} # same as background, but only for input genes
+        self.sample_pool = Pool() # check the Pool class
+        self.enrichments = {} # {term:enrichment}
+        self.elements_pool = Pool() # enrichments list
+        self.terms_mapping = {} # converse of sample_mapping
+        
+    def set_background_pool(self, ontology, organism, corrected_mapping, mongo_database):
+        self.background_mapping = core_functions.get_mapping_from_mongo(ontology, 
+                                                            organism, keys="genes", 
+                                                            corrected_mapping=corrected_mapping,
+                                                            mongo_database=mongo_database)
+        self.background_pool.set_pool_content(self.background_mapping, pool_content="values")
+
+    def get_background_population(self, term=None):
+        return self.background_pool.get_population(term)
+        
+    def get_background_pool(self):
+        return self.background_pool.get_unique_pool()
+        
+    def set_sample_pool(self, input_list):
+        for gene in input_list:
+            terms = []
+            try:
+                terms = self.background_mapping[gene]
+            except KeyError:
+                pass
+            self.sample_mapping.update({gene:terms})
+        self.sample_pool.set_pool_content(self.sample_mapping, pool_content="values")
+
+    def get_sample_population(self, term=None):
+        return self.sample_pool.get_population(term)
+        
+    def get_sample_terms(self):
+        return self.sample_pool.get_unique_pool()
+        
+    def set_terms_mapping(self):
+        self.terms_mapping = core_functions.invert_mapping(self.sample_mapping)
+                
+    def get_terms_mapping(self, terms_list=None):
+        if terms_list == None:
+            return self.terms_mapping
+        else:
+            output = {}
+            for term in terms_list:
+                genes = self.terms_mapping[term]
+                output.update({term:genes})
+            return output
+        
+    def set_enrichments(self):
+        for term in self.sample_pool.get_unique_pool():
+            denominator = self.get_background_population(term)
+            numerator = self.get_sample_population(term)
+            s = str(numerator) + "/" + str(denominator)
+            self.enrichments.setdefault(s, []).append(term)
+                
+    def get_terms_of_enrichment(self, es):
+        try:
+            return self.enrichments[es]
+        except KeyError:
+            return None
+            
+    def set_elements_pool(self):
+        self.elements_pool.set_pool_content(self.enrichments, pool_content="keys")
+                
+    def get_elements(self, unique=False):
+        return self.elements_pool.get_unique_pool()
+
+    def get_elements_populations(self):
+        return self.elements_pool.populations
+
+
+
 class GraphNode(object):
 
     def __init__ (self, name, definition=None, description=None, category=None,

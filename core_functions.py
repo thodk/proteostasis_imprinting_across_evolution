@@ -7,6 +7,8 @@ import numpy
 import pymongo
 import pandas
 import requests
+import multiprocessing
+from scipy import stats
 import core_classes
 
 mongodb = 'background'
@@ -539,4 +541,85 @@ class BiomartMapping(object):
         except KeyError:
             pass
     
+
+
+
+def hypergeometric_test(Pt, Ps, S, x):
+    # Pt (PopulationTotal): population size - background length 
+    # Ps (PopulationSucesses): number of successes in background 
+    # S (Sample): sample size
+    # x: number of successes in sample
+    # pmf: probability succeses = x
+    # cdf : cummulative probability, succeses <= x
+    # 1 - cdf: reverse cummulative probability, succeses > x
+    # sf: survival function ~ 1-cdf (sometimes more accurate)
+    ##### example: Pt=1000, Ps=100, S=50, P(x=45) = 3.16079643223e-44
+    ##### example: Pt=1000, Ps=100, S=50, P(x>45) = 8.7274631965783556e-13
+    ##### example: Pt=1000, Ps=100, S=50, P(x<45) = 0.99999999999912725
+    distribution = stats.hypergeom(Pt, Ps, S)
+    pvalue = distribution.sf(x) + distribution.pmf(x)
+    return pvalue
+
+
+def hypergeometric_test_for_enrichments(Pt, St, input_list):
+
+    if len(input_list) < 16:
+        output = {}
+        for entry in input_list:
+            Ps = int(entry.split("/")[1])
+            x = int(entry.split("/")[0])
+            pvalue = hypergeometric_test(Pt, Ps, St, x)
+            output.update({entry:pvalue})        
+    else:
+        def worker(sub_list, i):
+            output = {}
+            for entry in sub_list:
+                Ps = int(entry.split("/")[1])
+                x = int(entry.split("/")[0])
+                pvalue = hypergeometric_test(Pt, Ps, St, x)
+                output.update({entry:pvalue})
+            queue.put(output)
+
+        queue = multiprocessing.Queue()
+        nprocs = 4
+        batch = int(numpy.floor(len(input_list)/float(nprocs)))
+        procs = []        
+        for i in range(nprocs):
+            if i == nprocs-1:
+                sub_list = input_list[i*batch:]
+            else:
+                sub_list = input_list[i*batch:(i+1)*batch]
+            p = multiprocessing.Process(target=worker, args=(sub_list,i,))
+            p.start()
+            procs.append(p)
+
+        while queue.qsize() < nprocs:
+            pass # block me until all processes have finished
+        
+        output = {}
+        for i in range(queue.qsize()):
+            output.update(queue.get())
+
+        for p in procs: # be sure that all processes have been terminated
+            p.join()
+        
+    return output
+
+
+
+
+def bootstrapping_test(input_list, random_samples, n_trials=10000):
+    counters = dict((i, int((i>=random_samples[:,i]).sum())/float(n_trials)) for i in input_list)
+    return counters
+
+
+
+def bootstrapping_test_for_enrichments(input_list, n_trials=10000):
+    numpy.random.seed(1)   
+    random_samples = numpy.random.randint(low=0, high=len(input_list),
+                                          size=(n_trials, len(input_list))) 
+
+    counters = bootstrapping_test(input_list, random_samples, n_trials)
+    return counters
+
 
