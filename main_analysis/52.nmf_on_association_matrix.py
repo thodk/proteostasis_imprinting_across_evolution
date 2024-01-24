@@ -26,11 +26,12 @@ if __name__ == '__main__':
     DESCRIPTION:
 
     The non-negative matrix factorization is applied on the association_matrix
-    (derived in the previous step), using 3 of components. The whole workflow
+    (derived in the previous step), using 3 components. The whole workflow
     is described in the section 2.5.2 of the manuscript. The outputs are two 
     matrices, which indicate the relevance of species and GO-BP clusters to 
-    the derived NMF-based components. Also these matrices are illustrated in 
-    the respective heatmaps, using the heatmap.py script from the upper directory.
+    the derived NMF-based components. The information in these matrices are 
+    depicted in the respective heatmaps, using the heatmap.py script from 
+    the upper directory.
     '''
 
     if not os.path.exists('./PN_components/nmf/'):

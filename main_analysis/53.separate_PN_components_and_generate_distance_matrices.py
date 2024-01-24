@@ -43,11 +43,11 @@ if __name__ == '__main__':
     '''
     DESCRIPTION:
 
-    The components matrix from the non-negative matrix factorization is used
-    to find the common and the differential part of proteostasis, between
-    the three kingdoms. The respective GO term sets are used to calculate
-    the semantic similarities of species in these two proteostasis network 
-    profiles.
+    The components matrix from the non-negative matrix factorization are used
+    to find the common and the differential parts of proteostasis, between
+    the three kingdoms. The respective GO term sets are used to calculate the 
+    semantic similarities of species in the common and the differential 
+    proteostasis profiles.
     
     Outputs: the calculated distance matrices for the common and differential
     proteostasis profiles.
